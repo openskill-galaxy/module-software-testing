@@ -1,0 +1,41 @@
+{
+  "id": "mod-software-testing",
+  "slug": "module-software-testing",
+  "title": "软件测试与质量保障",
+  "subtitle": "面向测试入门和QA学习者",
+  "description": "面向软件工程学生开发者和测试工程师入门者系统学习软件测试基础测试用例设计黑盒白盒单元测试接口测试自动化测试缺陷管理性能测试和质量保障的静态学习模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "软件测试",
+    "测试用例",
+    "接口测试",
+    "自动化测试",
+    "Bug管理",
+    "性能测试",
+    "质量保障",
+    "测试报告"
+  ],
+  "estimatedHours": 140,
+  "difficulty": "beginner",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "🧪",
+  "repoUrl": "https://github.com/openskill-galaxy/module-software-testing",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 69,
+    "knowledgePoints": 739,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 461
+  }
+}

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "st-course-01",
+    "order": 1,
+    "slug": "软件测试入门与质量意识",
+    "title": "软件测试入门与质量意识",
+    "description": "测试定义、质量观、测试原则、测试分类、测试发展。",
+    "estimatedHours": 6,
+    "difficulty": "easy",
+    "tags": [
+      "软件测试入门与质量意识"
+    ],
+    "lessonIds": [
+      "st-lesson-001",
+      "st-lesson-002",
+      "st-lesson-003",
+      "st-lesson-004",
+      "st-lesson-005"
+    ],
+    "totalLessons": 5,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "st-course-02",
+    "order": 2,
+    "slug": "软件测试生命周期",
+    "title": "软件测试生命周期",
+    "description": "测试流程、需求分析、计划设计执行报告、评审。",
+    "estimatedHours": 6,
+    "difficulty": "easy",
+    "tags": [
+      "软件测试生命周期"
+    ],
+    "lessonIds": [
+      "st-lesson-006",
+      "st-lesson-007",
+      "st-lesson-008",
+      "st-lesson-009",
+      "st-lesson-010",
+      "st-lesson-011"
+    ],
+    "totalLessons": 6,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "st-course-03",
+    "order": 3,
+    "slug": "测试计划测试需求与测试范围",
+    "title": "测试计划、测试需求与测试范围",
+    "description": "测试计划编写、需求分析、范围界定、风险分析。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "测试计划、测试需求与测试范围"
+    ],
+    "lessonIds": [
+      "st-lesson-012",
+      "st-lesson-013",
+      "st-lesson-014",
+      "st-lesson-015"
+    ],
+    "totalLessons": 4,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "st-course-04",
+    "order": 4,
+    "slug": "测试用例设计基础",
+    "title": "测试用例设计基础",
+    "description": "用例要素、设计方法、评审、管理、执行。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "测试用例设计基础"
+    ],
+    "lessonIds": [
+      "st-lesson-016",
+      "st-lesson-017",
+      "st-lesson-018",
+      "st-lesson-019"
+    ],
+    "totalLessons": 4,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "st-course-05",
+    "order": 5,
+    "slug": "黑盒测试方法",
+    "title": "黑盒测试方法",
+    "description": "等价类、边界值、判定表、因果图、正交、状态迁移、场景法。",
+    "estimatedHours": 14,
+    "difficulty": "hard",
+    "tags": [
+      "黑盒测试方法"
+    ],
+    "lessonIds": [
+      "st-lesson-020",
+      "st-lesson-021",
+      "st-lesson-022",
+      "st-lesson-023",
+      "st-lesson-024",
+      "st-lesson-025",
+      "st-lesson-026"
+    ],
+    "totalLessons": 7,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "st-course-06",
+    "order": 6,
+    "slug": "白盒测试方法",
+    "title": "白盒测试方法",
+    "description": "语句覆盖、分支覆盖、条件覆盖、路径覆盖、MC/DC。",
+    "estimatedHours": 12,
+    "difficulty": "hard",
+    "tags": [
+      "白盒测试方法"
+    ],
+    "lessonIds": [
+      "st-lesson-027",
+      "st-lesson-028",
+      "st-lesson-029",
+      "st-lesson-030",
+      "st-lesson-031",
+      "st-lesson-032"
+    ],
+    "totalLessons": 6,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "st-course-07",
+    "order": 7,
+    "slug": "单元测试与测试驱动入门",
+    "title": "单元测试与测试驱动入门",
+    "description": "JUnit/TestNG、Mockito、TDD入门、覆盖率。",
+    "estimatedHours": 12,
+    "difficulty": "hard",
+    "tags": [
+      "单元测试与测试驱动入门"
+    ],
+    "lessonIds": [
+      "st-lesson-033",
+      "st-lesson-034",
+      "st-lesson-035",
+      "st-lesson-036",
+      "st-lesson-037"
+    ],
+    "totalLessons": 5,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "st-course-08",
+    "order": 8,
+    "slug": "接口测试与API测试",
+    "title": "接口测试与API测试",
+    "description": "接口测试方法、Postman、REST Assured、校验与断言。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "接口测试与API测试"
+    ],
+    "lessonIds": [
+      "st-lesson-038",
+      "st-lesson-039",
+      "st-lesson-040",
+      "st-lesson-041",
+      "st-lesson-042"
+    ],
+    "totalLessons": 5,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "st-course-09",
+    "order": 9,
+    "slug": "Web测试与兼容性测试",
+    "title": "Web 测试与兼容性测试",
+    "description": "Web功能测试、UI测试、兼容性、响应式测试。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "Web 测试与兼容性测试"
+    ],
+    "lessonIds": [
+      "st-lesson-043",
+      "st-lesson-044",
+      "st-lesson-045",
+      "st-lesson-046"
+    ],
+    "totalLessons": 4,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "st-course-10",
+    "order": 10,
+    "slug": "自动化测试基础",
+    "title": "自动化测试基础",
+    "description": "Selenium/Cypress、自动化框架、PageObject模型。",
+    "estimatedHours": 12,
+    "difficulty": "hard",
+    "tags": [
+      "自动化测试基础"
+    ],
+    "lessonIds": [
+      "st-lesson-047",
+      "st-lesson-048",
+      "st-lesson-049",
+      "st-lesson-050",
+      "st-lesson-051"
+    ],
+    "totalLessons": 5,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "st-course-11",
+    "order": 11,
+    "slug": "缺陷管理与Bug报告",
+    "title": "缺陷管理与 Bug 报告",
+    "description": "缺陷生命周期、严重程度、优先级、Bug报告编写。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "缺陷管理与 Bug 报告"
+    ],
+    "lessonIds": [
+      "st-lesson-052",
+      "st-lesson-053",
+      "st-lesson-054",
+      "st-lesson-055"
+    ],
+    "totalLessons": 4,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "st-course-12",
+    "order": 12,
+    "slug": "性能测试基础",
+    "title": "性能测试基础",
+    "description": "性能指标、JMeter/Gatling、负载压力测试、性能分析。",
+    "estimatedHours": 12,
+    "difficulty": "hard",
+    "tags": [
+      "性能测试基础"
+    ],
+    "lessonIds": [
+      "st-lesson-056",
+      "st-lesson-057",
+      "st-lesson-058",
+      "st-lesson-059",
+      "st-lesson-060"
+    ],
+    "totalLessons": 5,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "st-course-13",
+    "order": 13,
+    "slug": "测试报告质量度量与发布评估",
+    "title": "测试报告、质量度量与发布评估",
+    "description": "测试报告、覆盖率度量、发布标准、质量门禁。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "测试报告、质量度量与发布评估"
+    ],
+    "lessonIds": [
+      "st-lesson-061",
+      "st-lesson-062",
+      "st-lesson-063",
+      "st-lesson-064"
+    ],
+    "totalLessons": 4,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "st-course-14",
+    "order": 14,
+    "slug": "软件测试项目实战与面试训练",
+    "title": "软件测试项目实战与面试训练",
+    "description": "电商测试综合、面试题库、测试场景设计、项目实战。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "软件测试项目实战与面试训练"
+    ],
+    "lessonIds": [
+      "st-lesson-065",
+      "st-lesson-066",
+      "st-lesson-067",
+      "st-lesson-068",
+      "st-lesson-069"
+    ],
+    "totalLessons": 5,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握测试设计",
+      "能编写用例",
+      "会用自动化工具",
+      "具备质量保障思维"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]
