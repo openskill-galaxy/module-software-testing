@@ -26,7 +26,15 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-001",
+      "st-lesson-002",
+      "st-lesson-003",
+      "st-lesson-004",
+      "st-lesson-005"
+    ],
+    "summary": "测试定义、质量观、测试原则、测试分类、测试发展。"
   },
   {
     "id": "st-course-02",
@@ -56,7 +64,16 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-006",
+      "st-lesson-007",
+      "st-lesson-008",
+      "st-lesson-009",
+      "st-lesson-010",
+      "st-lesson-011"
+    ],
+    "summary": "测试流程、需求分析、计划设计执行报告、评审。"
   },
   {
     "id": "st-course-03",
@@ -84,7 +101,14 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-012",
+      "st-lesson-013",
+      "st-lesson-014",
+      "st-lesson-015"
+    ],
+    "summary": "测试计划编写、需求分析、范围界定、风险分析。"
   },
   {
     "id": "st-course-04",
@@ -112,7 +136,14 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-016",
+      "st-lesson-017",
+      "st-lesson-018",
+      "st-lesson-019"
+    ],
+    "summary": "用例要素、设计方法、评审、管理、执行。"
   },
   {
     "id": "st-course-05",
@@ -143,7 +174,17 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-020",
+      "st-lesson-021",
+      "st-lesson-022",
+      "st-lesson-023",
+      "st-lesson-024",
+      "st-lesson-025",
+      "st-lesson-026"
+    ],
+    "summary": "等价类、边界值、判定表、因果图、正交、状态迁移、场景法。"
   },
   {
     "id": "st-course-06",
@@ -173,7 +214,16 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-027",
+      "st-lesson-028",
+      "st-lesson-029",
+      "st-lesson-030",
+      "st-lesson-031",
+      "st-lesson-032"
+    ],
+    "summary": "语句覆盖、分支覆盖、条件覆盖、路径覆盖、MC/DC。"
   },
   {
     "id": "st-course-07",
@@ -202,7 +252,15 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-033",
+      "st-lesson-034",
+      "st-lesson-035",
+      "st-lesson-036",
+      "st-lesson-037"
+    ],
+    "summary": "JUnit/TestNG、Mockito、TDD入门、覆盖率。"
   },
   {
     "id": "st-course-08",
@@ -231,7 +289,15 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-038",
+      "st-lesson-039",
+      "st-lesson-040",
+      "st-lesson-041",
+      "st-lesson-042"
+    ],
+    "summary": "接口测试方法、Postman、REST Assured、校验与断言。"
   },
   {
     "id": "st-course-09",
@@ -259,7 +325,14 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-043",
+      "st-lesson-044",
+      "st-lesson-045",
+      "st-lesson-046"
+    ],
+    "summary": "Web功能测试、UI测试、兼容性、响应式测试。"
   },
   {
     "id": "st-course-10",
@@ -288,7 +361,15 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-047",
+      "st-lesson-048",
+      "st-lesson-049",
+      "st-lesson-050",
+      "st-lesson-051"
+    ],
+    "summary": "Selenium/Cypress、自动化框架、PageObject模型。"
   },
   {
     "id": "st-course-11",
@@ -316,7 +397,14 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-052",
+      "st-lesson-053",
+      "st-lesson-054",
+      "st-lesson-055"
+    ],
+    "summary": "缺陷生命周期、严重程度、优先级、Bug报告编写。"
   },
   {
     "id": "st-course-12",
@@ -345,7 +433,15 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-056",
+      "st-lesson-057",
+      "st-lesson-058",
+      "st-lesson-059",
+      "st-lesson-060"
+    ],
+    "summary": "性能指标、JMeter/Gatling、负载压力测试、性能分析。"
   },
   {
     "id": "st-course-13",
@@ -373,7 +469,14 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-061",
+      "st-lesson-062",
+      "st-lesson-063",
+      "st-lesson-064"
+    ],
+    "summary": "测试报告、覆盖率度量、发布标准、质量门禁。"
   },
   {
     "id": "st-course-14",
@@ -402,6 +505,14 @@
       "会用自动化工具",
       "具备质量保障思维"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "st-lesson-065",
+      "st-lesson-066",
+      "st-lesson-067",
+      "st-lesson-068",
+      "st-lesson-069"
+    ],
+    "summary": "电商测试综合、面试题库、测试场景设计、项目实战。"
   }
 ]

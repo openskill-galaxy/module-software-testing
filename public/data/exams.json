@@ -36,7 +36,11 @@
     "tags": [
       "软件测试入门与质量意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试入门与质量意识基础",
+    "description": "软件测试入门与质量意识基础",
+    "slug": "软件测试入门与质量意识基础"
   },
   {
     "id": "st-exam-02",
@@ -75,7 +79,11 @@
     "tags": [
       "软件测试生命周期"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试生命周期基础",
+    "description": "软件测试生命周期基础",
+    "slug": "软件测试生命周期基础"
   },
   {
     "id": "st-exam-03",
@@ -114,7 +122,11 @@
     "tags": [
       "测试计划测试需求与测试范围"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试计划测试需求与测试范围基础",
+    "description": "测试计划测试需求与测试范围基础",
+    "slug": "测试计划测试需求与测试范围基础"
   },
   {
     "id": "st-exam-04",
@@ -153,7 +165,11 @@
     "tags": [
       "测试用例设计基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试用例设计基础基础",
+    "description": "测试用例设计基础基础",
+    "slug": "测试用例设计基础基础"
   },
   {
     "id": "st-exam-05",
@@ -192,7 +208,11 @@
     "tags": [
       "黑盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "黑盒测试方法基础",
+    "description": "黑盒测试方法基础",
+    "slug": "黑盒测试方法基础"
   },
   {
     "id": "st-exam-06",
@@ -231,7 +251,11 @@
     "tags": [
       "白盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "白盒测试方法基础",
+    "description": "白盒测试方法基础",
+    "slug": "白盒测试方法基础"
   },
   {
     "id": "st-exam-07",
@@ -270,7 +294,11 @@
     "tags": [
       "单元测试与测试驱动入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "单元测试与测试驱动入门基础",
+    "description": "单元测试与测试驱动入门基础",
+    "slug": "单元测试与测试驱动入门基础"
   },
   {
     "id": "st-exam-08",
@@ -309,7 +337,11 @@
     "tags": [
       "接口测试与API测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "接口测试与API测试基础",
+    "description": "接口测试与API测试基础",
+    "slug": "接口测试与api测试基础"
   },
   {
     "id": "st-exam-09",
@@ -348,7 +380,11 @@
     "tags": [
       "Web测试与兼容性测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Web测试与兼容性测试基础",
+    "description": "Web测试与兼容性测试基础",
+    "slug": "web测试与兼容性测试基础"
   },
   {
     "id": "st-exam-10",
@@ -387,7 +423,11 @@
     "tags": [
       "自动化测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "自动化测试基础基础",
+    "description": "自动化测试基础基础",
+    "slug": "自动化测试基础基础"
   },
   {
     "id": "st-exam-11",
@@ -426,7 +466,11 @@
     "tags": [
       "缺陷管理与Bug报告"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "缺陷管理与Bug报告基础",
+    "description": "缺陷管理与Bug报告基础",
+    "slug": "缺陷管理与bug报告基础"
   },
   {
     "id": "st-exam-12",
@@ -465,7 +509,11 @@
     "tags": [
       "性能测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "性能测试基础基础",
+    "description": "性能测试基础基础",
+    "slug": "性能测试基础基础"
   },
   {
     "id": "st-exam-13",
@@ -504,7 +552,11 @@
     "tags": [
       "测试报告质量度量与发布评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试报告质量度量与发布评估基础",
+    "description": "测试报告质量度量与发布评估基础",
+    "slug": "测试报告质量度量与发布评估基础"
   },
   {
     "id": "st-exam-14",
@@ -543,7 +595,11 @@
     "tags": [
       "软件测试项目实战与面试训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试项目实战与面试训练基础",
+    "description": "软件测试项目实战与面试训练基础",
+    "slug": "软件测试项目实战与面试训练基础"
   },
   {
     "id": "st-exam-15",
@@ -582,7 +638,11 @@
     "tags": [
       "软件测试入门与质量意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试入门与质量意识基础",
+    "description": "软件测试入门与质量意识基础",
+    "slug": "软件测试入门与质量意识基础"
   },
   {
     "id": "st-exam-16",
@@ -621,7 +681,11 @@
     "tags": [
       "软件测试生命周期"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试生命周期基础",
+    "description": "软件测试生命周期基础",
+    "slug": "软件测试生命周期基础"
   },
   {
     "id": "st-exam-17",
@@ -660,7 +724,11 @@
     "tags": [
       "测试计划测试需求与测试范围"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试计划测试需求与测试范围基础",
+    "description": "测试计划测试需求与测试范围基础",
+    "slug": "测试计划测试需求与测试范围基础"
   },
   {
     "id": "st-exam-18",
@@ -699,7 +767,11 @@
     "tags": [
       "测试用例设计基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试用例设计基础基础",
+    "description": "测试用例设计基础基础",
+    "slug": "测试用例设计基础基础"
   },
   {
     "id": "st-exam-19",
@@ -738,7 +810,11 @@
     "tags": [
       "黑盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "黑盒测试方法基础",
+    "description": "黑盒测试方法基础",
+    "slug": "黑盒测试方法基础"
   },
   {
     "id": "st-exam-20",
@@ -777,7 +853,11 @@
     "tags": [
       "白盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "白盒测试方法基础",
+    "description": "白盒测试方法基础",
+    "slug": "白盒测试方法基础"
   },
   {
     "id": "st-exam-21",
@@ -816,7 +896,11 @@
     "tags": [
       "单元测试与测试驱动入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "单元测试与测试驱动入门基础",
+    "description": "单元测试与测试驱动入门基础",
+    "slug": "单元测试与测试驱动入门基础"
   },
   {
     "id": "st-exam-22",
@@ -855,7 +939,11 @@
     "tags": [
       "接口测试与API测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "接口测试与API测试基础",
+    "description": "接口测试与API测试基础",
+    "slug": "接口测试与api测试基础"
   },
   {
     "id": "st-exam-23",
@@ -894,7 +982,11 @@
     "tags": [
       "Web测试与兼容性测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Web测试与兼容性测试基础",
+    "description": "Web测试与兼容性测试基础",
+    "slug": "web测试与兼容性测试基础"
   },
   {
     "id": "st-exam-24",
@@ -933,7 +1025,11 @@
     "tags": [
       "自动化测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "自动化测试基础基础",
+    "description": "自动化测试基础基础",
+    "slug": "自动化测试基础基础"
   },
   {
     "id": "st-exam-25",
@@ -972,7 +1068,11 @@
     "tags": [
       "缺陷管理与Bug报告"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "缺陷管理与Bug报告基础",
+    "description": "缺陷管理与Bug报告基础",
+    "slug": "缺陷管理与bug报告基础"
   },
   {
     "id": "st-exam-26",
@@ -1011,7 +1111,11 @@
     "tags": [
       "性能测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "性能测试基础基础",
+    "description": "性能测试基础基础",
+    "slug": "性能测试基础基础"
   },
   {
     "id": "st-exam-27",
@@ -1050,7 +1154,11 @@
     "tags": [
       "测试报告质量度量与发布评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试报告质量度量与发布评估基础",
+    "description": "测试报告质量度量与发布评估基础",
+    "slug": "测试报告质量度量与发布评估基础"
   },
   {
     "id": "st-exam-28",
@@ -1089,7 +1197,11 @@
     "tags": [
       "软件测试项目实战与面试训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试项目实战与面试训练基础",
+    "description": "软件测试项目实战与面试训练基础",
+    "slug": "软件测试项目实战与面试训练基础"
   },
   {
     "id": "st-exam-29",
@@ -1128,7 +1240,11 @@
     "tags": [
       "软件测试入门与质量意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试入门与质量意识基础",
+    "description": "软件测试入门与质量意识基础",
+    "slug": "软件测试入门与质量意识基础"
   },
   {
     "id": "st-exam-30",
@@ -1167,7 +1283,11 @@
     "tags": [
       "软件测试生命周期"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试生命周期基础",
+    "description": "软件测试生命周期基础",
+    "slug": "软件测试生命周期基础"
   },
   {
     "id": "st-exam-31",
@@ -1206,7 +1326,11 @@
     "tags": [
       "测试计划测试需求与测试范围"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试计划测试需求与测试范围基础",
+    "description": "测试计划测试需求与测试范围基础",
+    "slug": "测试计划测试需求与测试范围基础"
   },
   {
     "id": "st-exam-32",
@@ -1245,7 +1369,11 @@
     "tags": [
       "测试用例设计基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试用例设计基础基础",
+    "description": "测试用例设计基础基础",
+    "slug": "测试用例设计基础基础"
   },
   {
     "id": "st-exam-33",
@@ -1284,7 +1412,11 @@
     "tags": [
       "黑盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "黑盒测试方法基础",
+    "description": "黑盒测试方法基础",
+    "slug": "黑盒测试方法基础"
   },
   {
     "id": "st-exam-34",
@@ -1323,7 +1455,11 @@
     "tags": [
       "白盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "白盒测试方法基础",
+    "description": "白盒测试方法基础",
+    "slug": "白盒测试方法基础"
   },
   {
     "id": "st-exam-35",
@@ -1362,7 +1498,11 @@
     "tags": [
       "单元测试与测试驱动入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "单元测试与测试驱动入门基础",
+    "description": "单元测试与测试驱动入门基础",
+    "slug": "单元测试与测试驱动入门基础"
   },
   {
     "id": "st-exam-36",
@@ -1401,7 +1541,11 @@
     "tags": [
       "接口测试与API测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "接口测试与API测试进阶",
+    "description": "接口测试与API测试进阶",
+    "slug": "接口测试与api测试进阶"
   },
   {
     "id": "st-exam-37",
@@ -1440,7 +1584,11 @@
     "tags": [
       "Web测试与兼容性测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Web测试与兼容性测试进阶",
+    "description": "Web测试与兼容性测试进阶",
+    "slug": "web测试与兼容性测试进阶"
   },
   {
     "id": "st-exam-38",
@@ -1479,7 +1627,11 @@
     "tags": [
       "自动化测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "自动化测试基础进阶",
+    "description": "自动化测试基础进阶",
+    "slug": "自动化测试基础进阶"
   },
   {
     "id": "st-exam-39",
@@ -1518,7 +1670,11 @@
     "tags": [
       "缺陷管理与Bug报告"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "缺陷管理与Bug报告进阶",
+    "description": "缺陷管理与Bug报告进阶",
+    "slug": "缺陷管理与bug报告进阶"
   },
   {
     "id": "st-exam-40",
@@ -1557,7 +1713,11 @@
     "tags": [
       "性能测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "性能测试基础进阶",
+    "description": "性能测试基础进阶",
+    "slug": "性能测试基础进阶"
   },
   {
     "id": "st-exam-41",
@@ -1596,7 +1756,11 @@
     "tags": [
       "测试报告质量度量与发布评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试报告质量度量与发布评估进阶",
+    "description": "测试报告质量度量与发布评估进阶",
+    "slug": "测试报告质量度量与发布评估进阶"
   },
   {
     "id": "st-exam-42",
@@ -1635,7 +1799,11 @@
     "tags": [
       "软件测试项目实战与面试训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试项目实战与面试训练进阶",
+    "description": "软件测试项目实战与面试训练进阶",
+    "slug": "软件测试项目实战与面试训练进阶"
   },
   {
     "id": "st-exam-43",
@@ -1674,7 +1842,11 @@
     "tags": [
       "软件测试入门与质量意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试入门与质量意识进阶",
+    "description": "软件测试入门与质量意识进阶",
+    "slug": "软件测试入门与质量意识进阶"
   },
   {
     "id": "st-exam-44",
@@ -1713,7 +1885,11 @@
     "tags": [
       "软件测试生命周期"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试生命周期进阶",
+    "description": "软件测试生命周期进阶",
+    "slug": "软件测试生命周期进阶"
   },
   {
     "id": "st-exam-45",
@@ -1752,7 +1928,11 @@
     "tags": [
       "测试计划测试需求与测试范围"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试计划测试需求与测试范围进阶",
+    "description": "测试计划测试需求与测试范围进阶",
+    "slug": "测试计划测试需求与测试范围进阶"
   },
   {
     "id": "st-exam-46",
@@ -1791,7 +1971,11 @@
     "tags": [
       "测试用例设计基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试用例设计基础进阶",
+    "description": "测试用例设计基础进阶",
+    "slug": "测试用例设计基础进阶"
   },
   {
     "id": "st-exam-47",
@@ -1830,7 +2014,11 @@
     "tags": [
       "黑盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "黑盒测试方法进阶",
+    "description": "黑盒测试方法进阶",
+    "slug": "黑盒测试方法进阶"
   },
   {
     "id": "st-exam-48",
@@ -1869,7 +2057,11 @@
     "tags": [
       "白盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "白盒测试方法进阶",
+    "description": "白盒测试方法进阶",
+    "slug": "白盒测试方法进阶"
   },
   {
     "id": "st-exam-49",
@@ -1908,7 +2100,11 @@
     "tags": [
       "单元测试与测试驱动入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "单元测试与测试驱动入门进阶",
+    "description": "单元测试与测试驱动入门进阶",
+    "slug": "单元测试与测试驱动入门进阶"
   },
   {
     "id": "st-exam-50",
@@ -1947,7 +2143,11 @@
     "tags": [
       "接口测试与API测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "接口测试与API测试进阶",
+    "description": "接口测试与API测试进阶",
+    "slug": "接口测试与api测试进阶"
   },
   {
     "id": "st-exam-51",
@@ -1986,7 +2186,11 @@
     "tags": [
       "Web测试与兼容性测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Web测试与兼容性测试进阶",
+    "description": "Web测试与兼容性测试进阶",
+    "slug": "web测试与兼容性测试进阶"
   },
   {
     "id": "st-exam-52",
@@ -2025,7 +2229,11 @@
     "tags": [
       "自动化测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "自动化测试基础进阶",
+    "description": "自动化测试基础进阶",
+    "slug": "自动化测试基础进阶"
   },
   {
     "id": "st-exam-53",
@@ -2064,7 +2272,11 @@
     "tags": [
       "缺陷管理与Bug报告"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "缺陷管理与Bug报告进阶",
+    "description": "缺陷管理与Bug报告进阶",
+    "slug": "缺陷管理与bug报告进阶"
   },
   {
     "id": "st-exam-54",
@@ -2103,7 +2315,11 @@
     "tags": [
       "性能测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "性能测试基础进阶",
+    "description": "性能测试基础进阶",
+    "slug": "性能测试基础进阶"
   },
   {
     "id": "st-exam-55",
@@ -2142,7 +2358,11 @@
     "tags": [
       "测试报告质量度量与发布评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试报告质量度量与发布评估进阶",
+    "description": "测试报告质量度量与发布评估进阶",
+    "slug": "测试报告质量度量与发布评估进阶"
   },
   {
     "id": "st-exam-56",
@@ -2181,7 +2401,11 @@
     "tags": [
       "软件测试项目实战与面试训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试项目实战与面试训练进阶",
+    "description": "软件测试项目实战与面试训练进阶",
+    "slug": "软件测试项目实战与面试训练进阶"
   },
   {
     "id": "st-exam-57",
@@ -2220,7 +2444,11 @@
     "tags": [
       "软件测试入门与质量意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试入门与质量意识进阶",
+    "description": "软件测试入门与质量意识进阶",
+    "slug": "软件测试入门与质量意识进阶"
   },
   {
     "id": "st-exam-58",
@@ -2259,7 +2487,11 @@
     "tags": [
       "软件测试生命周期"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件测试生命周期进阶",
+    "description": "软件测试生命周期进阶",
+    "slug": "软件测试生命周期进阶"
   },
   {
     "id": "st-exam-59",
@@ -2298,7 +2530,11 @@
     "tags": [
       "测试计划测试需求与测试范围"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试计划测试需求与测试范围进阶",
+    "description": "测试计划测试需求与测试范围进阶",
+    "slug": "测试计划测试需求与测试范围进阶"
   },
   {
     "id": "st-exam-60",
@@ -2337,7 +2573,11 @@
     "tags": [
       "测试用例设计基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试用例设计基础进阶",
+    "description": "测试用例设计基础进阶",
+    "slug": "测试用例设计基础进阶"
   },
   {
     "id": "st-exam-61",
@@ -2376,7 +2616,11 @@
     "tags": [
       "黑盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "黑盒测试方法进阶",
+    "description": "黑盒测试方法进阶",
+    "slug": "黑盒测试方法进阶"
   },
   {
     "id": "st-exam-62",
@@ -2415,7 +2659,11 @@
     "tags": [
       "白盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "白盒测试方法进阶",
+    "description": "白盒测试方法进阶",
+    "slug": "白盒测试方法进阶"
   },
   {
     "id": "st-exam-63",
@@ -2454,7 +2702,11 @@
     "tags": [
       "单元测试与测试驱动入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "单元测试与测试驱动入门进阶",
+    "description": "单元测试与测试驱动入门进阶",
+    "slug": "单元测试与测试驱动入门进阶"
   },
   {
     "id": "st-exam-64",
@@ -2493,7 +2745,11 @@
     "tags": [
       "接口测试与API测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "接口测试与API测试进阶",
+    "description": "接口测试与API测试进阶",
+    "slug": "接口测试与api测试进阶"
   },
   {
     "id": "st-exam-65",
@@ -2532,7 +2788,11 @@
     "tags": [
       "Web测试与兼容性测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Web测试与兼容性测试进阶",
+    "description": "Web测试与兼容性测试进阶",
+    "slug": "web测试与兼容性测试进阶"
   },
   {
     "id": "st-exam-66",
@@ -2571,7 +2831,11 @@
     "tags": [
       "自动化测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "自动化测试基础综合",
+    "description": "自动化测试基础综合",
+    "slug": "自动化测试基础综合"
   },
   {
     "id": "st-exam-67",
@@ -2610,7 +2874,11 @@
     "tags": [
       "缺陷管理与Bug报告"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "缺陷管理与Bug报告综合",
+    "description": "缺陷管理与Bug报告综合",
+    "slug": "缺陷管理与bug报告综合"
   },
   {
     "id": "st-exam-68",
@@ -2649,7 +2917,11 @@
     "tags": [
       "性能测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "性能测试基础综合",
+    "description": "性能测试基础综合",
+    "slug": "性能测试基础综合"
   },
   {
     "id": "st-exam-69",
@@ -2688,7 +2960,11 @@
     "tags": [
       "测试报告质量度量与发布评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "测试报告质量度量与发布评估综合",
+    "description": "测试报告质量度量与发布评估综合",
+    "slug": "测试报告质量度量与发布评估综合"
   },
   {
     "id": "st-exam-70",
@@ -2727,7 +3003,11 @@
     "tags": [
       "软件测试项目实战与面试训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "软件测试项目实战与面试训练综合",
+    "description": "软件测试项目实战与面试训练综合",
+    "slug": "软件测试项目实战与面试训练综合"
   },
   {
     "id": "st-exam-71",
@@ -2766,7 +3046,11 @@
     "tags": [
       "软件测试入门与质量意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "软件测试入门与质量意识综合",
+    "description": "软件测试入门与质量意识综合",
+    "slug": "软件测试入门与质量意识综合"
   },
   {
     "id": "st-exam-72",
@@ -2805,7 +3089,11 @@
     "tags": [
       "软件测试生命周期"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "软件测试生命周期综合",
+    "description": "软件测试生命周期综合",
+    "slug": "软件测试生命周期综合"
   },
   {
     "id": "st-exam-73",
@@ -2844,7 +3132,11 @@
     "tags": [
       "测试计划测试需求与测试范围"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "测试计划测试需求与测试范围综合",
+    "description": "测试计划测试需求与测试范围综合",
+    "slug": "测试计划测试需求与测试范围综合"
   },
   {
     "id": "st-exam-74",
@@ -2883,7 +3175,11 @@
     "tags": [
       "测试用例设计基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "测试用例设计基础综合",
+    "description": "测试用例设计基础综合",
+    "slug": "测试用例设计基础综合"
   },
   {
     "id": "st-exam-75",
@@ -2922,7 +3218,11 @@
     "tags": [
       "黑盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "黑盒测试方法综合",
+    "description": "黑盒测试方法综合",
+    "slug": "黑盒测试方法综合"
   },
   {
     "id": "st-exam-76",
@@ -2961,7 +3261,11 @@
     "tags": [
       "白盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "白盒测试方法综合",
+    "description": "白盒测试方法综合",
+    "slug": "白盒测试方法综合"
   },
   {
     "id": "st-exam-77",
@@ -3000,7 +3304,11 @@
     "tags": [
       "单元测试与测试驱动入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "单元测试与测试驱动入门综合",
+    "description": "单元测试与测试驱动入门综合",
+    "slug": "单元测试与测试驱动入门综合"
   },
   {
     "id": "st-exam-78",
@@ -3039,7 +3347,11 @@
     "tags": [
       "接口测试与API测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "接口测试与API测试综合",
+    "description": "接口测试与API测试综合",
+    "slug": "接口测试与api测试综合"
   },
   {
     "id": "st-exam-79",
@@ -3078,7 +3390,11 @@
     "tags": [
       "Web测试与兼容性测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Web测试与兼容性测试综合",
+    "description": "Web测试与兼容性测试综合",
+    "slug": "web测试与兼容性测试综合"
   },
   {
     "id": "st-exam-80",
@@ -3117,7 +3433,11 @@
     "tags": [
       "自动化测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "自动化测试基础综合",
+    "description": "自动化测试基础综合",
+    "slug": "自动化测试基础综合"
   },
   {
     "id": "st-exam-81",
@@ -3156,7 +3476,11 @@
     "tags": [
       "缺陷管理与Bug报告"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "缺陷管理与Bug报告综合",
+    "description": "缺陷管理与Bug报告综合",
+    "slug": "缺陷管理与bug报告综合"
   },
   {
     "id": "st-exam-82",
@@ -3195,7 +3519,11 @@
     "tags": [
       "性能测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "性能测试基础综合",
+    "description": "性能测试基础综合",
+    "slug": "性能测试基础综合"
   },
   {
     "id": "st-exam-83",
@@ -3234,7 +3562,11 @@
     "tags": [
       "测试报告质量度量与发布评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "测试报告质量度量与发布评估综合",
+    "description": "测试报告质量度量与发布评估综合",
+    "slug": "测试报告质量度量与发布评估综合"
   },
   {
     "id": "st-exam-84",
@@ -3273,7 +3605,11 @@
     "tags": [
       "软件测试项目实战与面试训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "软件测试项目实战与面试训练综合",
+    "description": "软件测试项目实战与面试训练综合",
+    "slug": "软件测试项目实战与面试训练综合"
   },
   {
     "id": "st-exam-85",
@@ -3312,7 +3648,11 @@
     "tags": [
       "软件测试入门与质量意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "软件测试入门与质量意识综合",
+    "description": "软件测试入门与质量意识综合",
+    "slug": "软件测试入门与质量意识综合"
   },
   {
     "id": "st-exam-86",
@@ -3351,7 +3691,11 @@
     "tags": [
       "软件测试生命周期"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "软件测试生命周期综合",
+    "description": "软件测试生命周期综合",
+    "slug": "软件测试生命周期综合"
   },
   {
     "id": "st-exam-87",
@@ -3390,7 +3734,11 @@
     "tags": [
       "测试计划测试需求与测试范围"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "测试计划测试需求与测试范围综合",
+    "description": "测试计划测试需求与测试范围综合",
+    "slug": "测试计划测试需求与测试范围综合"
   },
   {
     "id": "st-exam-88",
@@ -3429,7 +3777,11 @@
     "tags": [
       "测试用例设计基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "测试用例设计基础综合",
+    "description": "测试用例设计基础综合",
+    "slug": "测试用例设计基础综合"
   },
   {
     "id": "st-exam-89",
@@ -3468,7 +3820,11 @@
     "tags": [
       "黑盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "黑盒测试方法综合",
+    "description": "黑盒测试方法综合",
+    "slug": "黑盒测试方法综合"
   },
   {
     "id": "st-exam-90",
@@ -3507,7 +3863,11 @@
     "tags": [
       "白盒测试方法"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "白盒测试方法综合",
+    "description": "白盒测试方法综合",
+    "slug": "白盒测试方法综合"
   },
   {
     "id": "st-exam-91",
@@ -3546,7 +3906,11 @@
     "tags": [
       "单元测试与测试驱动入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "单元测试与测试驱动入门综合",
+    "description": "单元测试与测试驱动入门综合",
+    "slug": "单元测试与测试驱动入门综合"
   },
   {
     "id": "st-exam-92",
@@ -3585,7 +3949,11 @@
     "tags": [
       "接口测试与API测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "接口测试与API测试综合",
+    "description": "接口测试与API测试综合",
+    "slug": "接口测试与api测试综合"
   },
   {
     "id": "st-exam-93",
@@ -3624,7 +3992,11 @@
     "tags": [
       "Web测试与兼容性测试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Web测试与兼容性测试综合",
+    "description": "Web测试与兼容性测试综合",
+    "slug": "web测试与兼容性测试综合"
   },
   {
     "id": "st-exam-94",
@@ -3663,7 +4035,11 @@
     "tags": [
       "自动化测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "自动化测试基础综合",
+    "description": "自动化测试基础综合",
+    "slug": "自动化测试基础综合"
   },
   {
     "id": "st-exam-95",
@@ -3702,7 +4078,11 @@
     "tags": [
       "缺陷管理与Bug报告"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "缺陷管理与Bug报告综合",
+    "description": "缺陷管理与Bug报告综合",
+    "slug": "缺陷管理与bug报告综合"
   },
   {
     "id": "st-exam-96",
@@ -3741,7 +4121,11 @@
     "tags": [
       "性能测试基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "性能测试基础综合",
+    "description": "性能测试基础综合",
+    "slug": "性能测试基础综合"
   },
   {
     "id": "st-exam-97",
@@ -3780,7 +4164,11 @@
     "tags": [
       "测试报告质量度量与发布评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "测试报告质量度量与发布评估综合",
+    "description": "测试报告质量度量与发布评估综合",
+    "slug": "测试报告质量度量与发布评估综合"
   },
   {
     "id": "st-exam-98",
@@ -3819,7 +4207,11 @@
     "tags": [
       "软件测试项目实战与面试训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "软件测试项目实战与面试训练综合",
+    "description": "软件测试项目实战与面试训练综合",
+    "slug": "软件测试项目实战与面试训练综合"
   },
   {
     "id": "st-exam-99",
@@ -3858,7 +4250,11 @@
     "tags": [
       "软件测试入门与质量意识"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "软件测试入门与质量意识综合",
+    "description": "软件测试入门与质量意识综合",
+    "slug": "软件测试入门与质量意识综合"
   },
   {
     "id": "st-exam-100",
@@ -3897,6 +4293,10 @@
     "tags": [
       "软件测试生命周期"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "软件测试生命周期综合",
+    "description": "软件测试生命周期综合",
+    "slug": "软件测试生命周期综合"
   }
 ]

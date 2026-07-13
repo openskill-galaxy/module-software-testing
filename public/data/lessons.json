@@ -24,7 +24,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 软件测试定义\n\n软件测试定义内容。",
+    "knowledgePoints": [
+      "st-kp-001"
+    ]
   },
   {
     "id": "st-lesson-002",
@@ -51,7 +55,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 质量意识\n\n质量意识内容。",
+    "knowledgePoints": [
+      "st-kp-002"
+    ]
   },
   {
     "id": "st-lesson-003",
@@ -78,7 +86,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 测试原则\n\n测试原则内容。",
+    "knowledgePoints": [
+      "st-kp-003"
+    ]
   },
   {
     "id": "st-lesson-004",
@@ -105,7 +117,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 测试分类\n\n测试分类内容。",
+    "knowledgePoints": [
+      "st-kp-004"
+    ]
   },
   {
     "id": "st-lesson-005",
@@ -132,7 +148,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 测试发展历史\n\n测试发展历史内容。",
+    "knowledgePoints": [
+      "st-kp-005"
+    ]
   },
   {
     "id": "st-lesson-006",
@@ -159,7 +179,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 测试流程\n\n测试流程内容。",
+    "knowledgePoints": [
+      "st-kp-006"
+    ]
   },
   {
     "id": "st-lesson-007",
@@ -186,7 +210,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 需求分析\n\n需求分析内容。",
+    "knowledgePoints": [
+      "st-kp-007"
+    ]
   },
   {
     "id": "st-lesson-008",
@@ -213,7 +241,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 测试设计\n\n测试设计内容。",
+    "knowledgePoints": [
+      "st-kp-008"
+    ]
   },
   {
     "id": "st-lesson-009",
@@ -240,7 +272,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 测试执行\n\n测试执行内容。",
+    "knowledgePoints": [
+      "st-kp-009"
+    ]
   },
   {
     "id": "st-lesson-010",
@@ -267,7 +303,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 测试报告\n\n测试报告内容。",
+    "knowledgePoints": [
+      "st-kp-010"
+    ]
   },
   {
     "id": "st-lesson-011",
@@ -294,7 +334,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 评审\n\n评审内容。",
+    "knowledgePoints": [
+      "st-kp-011"
+    ]
   },
   {
     "id": "st-lesson-012",
@@ -315,7 +359,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 测试计划\n\n测试计划内容。",
+    "knowledgePoints": [
+      "st-kp-012"
+    ]
   },
   {
     "id": "st-lesson-013",
@@ -336,7 +384,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 测试范围\n\n测试范围内容。",
+    "knowledgePoints": [
+      "st-kp-013"
+    ]
   },
   {
     "id": "st-lesson-014",
@@ -357,7 +409,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 风险分析\n\n风险分析内容。",
+    "knowledgePoints": [
+      "st-kp-014"
+    ]
   },
   {
     "id": "st-lesson-015",
@@ -378,7 +434,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 测试资源估算\n\n测试资源估算内容。",
+    "knowledgePoints": [
+      "st-kp-015"
+    ]
   },
   {
     "id": "st-lesson-016",
@@ -405,7 +465,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 用例要素\n\n用例要素内容。",
+    "knowledgePoints": [
+      "st-kp-016"
+    ]
   },
   {
     "id": "st-lesson-017",
@@ -432,7 +496,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 用例设计方法\n\n用例设计方法内容。",
+    "knowledgePoints": [
+      "st-kp-017"
+    ]
   },
   {
     "id": "st-lesson-018",
@@ -459,7 +527,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 用例评审\n\n用例评审内容。",
+    "knowledgePoints": [
+      "st-kp-018"
+    ]
   },
   {
     "id": "st-lesson-019",
@@ -486,7 +558,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 用例管理\n\n用例管理内容。",
+    "knowledgePoints": [
+      "st-kp-019"
+    ]
   },
   {
     "id": "st-lesson-020",
@@ -514,7 +590,12 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 等价类划分\n\n等价类划分内容。",
+    "knowledgePoints": [
+      "st-kp-020",
+      "st-kp-021"
+    ]
   },
   {
     "id": "st-lesson-021",
@@ -542,7 +623,12 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 边界值分析\n\n边界值分析内容。",
+    "knowledgePoints": [
+      "st-kp-022",
+      "st-kp-023"
+    ]
   },
   {
     "id": "st-lesson-022",
@@ -569,7 +655,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 判定表\n\n判定表内容。",
+    "knowledgePoints": [
+      "st-kp-024"
+    ]
   },
   {
     "id": "st-lesson-023",
@@ -596,7 +686,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 因果图\n\n因果图内容。",
+    "knowledgePoints": [
+      "st-kp-025"
+    ]
   },
   {
     "id": "st-lesson-024",
@@ -623,7 +717,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正交实验\n\n正交实验内容。",
+    "knowledgePoints": [
+      "st-kp-026"
+    ]
   },
   {
     "id": "st-lesson-025",
@@ -650,7 +748,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 状态迁移\n\n状态迁移内容。",
+    "knowledgePoints": [
+      "st-kp-027"
+    ]
   },
   {
     "id": "st-lesson-026",
@@ -677,7 +779,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 场景法\n\n场景法内容。",
+    "knowledgePoints": [
+      "st-kp-028"
+    ]
   },
   {
     "id": "st-lesson-027",
@@ -704,7 +810,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 语句覆盖\n\n语句覆盖内容。",
+    "knowledgePoints": [
+      "st-kp-029"
+    ]
   },
   {
     "id": "st-lesson-028",
@@ -731,7 +841,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分支覆盖\n\n分支覆盖内容。",
+    "knowledgePoints": [
+      "st-kp-030"
+    ]
   },
   {
     "id": "st-lesson-029",
@@ -758,7 +872,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 条件覆盖\n\n条件覆盖内容。",
+    "knowledgePoints": [
+      "st-kp-031"
+    ]
   },
   {
     "id": "st-lesson-030",
@@ -785,7 +903,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 路径覆盖\n\n路径覆盖内容。",
+    "knowledgePoints": [
+      "st-kp-032"
+    ]
   },
   {
     "id": "st-lesson-031",
@@ -812,7 +934,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 条件组合覆盖\n\n条件组合覆盖内容。",
+    "knowledgePoints": [
+      "st-kp-033"
+    ]
   },
   {
     "id": "st-lesson-032",
@@ -839,7 +965,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# MC/DC覆盖\n\nMC/DC覆盖内容。",
+    "knowledgePoints": [
+      "st-kp-034"
+    ]
   },
   {
     "id": "st-lesson-033",
@@ -866,7 +996,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JUnit基础\n\nJUnit基础内容。",
+    "knowledgePoints": [
+      "st-kp-035"
+    ]
   },
   {
     "id": "st-lesson-034",
@@ -893,7 +1027,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# TestNG\n\nTestNG内容。",
+    "knowledgePoints": [
+      "st-kp-036"
+    ]
   },
   {
     "id": "st-lesson-035",
@@ -921,7 +1059,12 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Mockito\n\nMockito内容。",
+    "knowledgePoints": [
+      "st-kp-037",
+      "st-kp-038"
+    ]
   },
   {
     "id": "st-lesson-036",
@@ -948,7 +1091,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# TDD流程\n\nTDD流程内容。",
+    "knowledgePoints": [
+      "st-kp-039"
+    ]
   },
   {
     "id": "st-lesson-037",
@@ -975,7 +1122,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 代码覆盖率\n\n代码覆盖率内容。",
+    "knowledgePoints": [
+      "st-kp-040"
+    ]
   },
   {
     "id": "st-lesson-038",
@@ -1002,7 +1153,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 接口测试概念\n\n接口测试概念内容。",
+    "knowledgePoints": [
+      "st-kp-041"
+    ]
   },
   {
     "id": "st-lesson-039",
@@ -1029,7 +1184,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Postman使用\n\nPostman使用内容。",
+    "knowledgePoints": [
+      "st-kp-042"
+    ]
   },
   {
     "id": "st-lesson-040",
@@ -1056,7 +1215,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# REST Assured\n\nREST Assured内容。",
+    "knowledgePoints": [
+      "st-kp-043"
+    ]
   },
   {
     "id": "st-lesson-041",
@@ -1083,7 +1246,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 接口校验\n\n接口校验内容。",
+    "knowledgePoints": [
+      "st-kp-044"
+    ]
   },
   {
     "id": "st-lesson-042",
@@ -1110,7 +1277,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 接口自动化\n\n接口自动化内容。",
+    "knowledgePoints": [
+      "st-kp-045"
+    ]
   },
   {
     "id": "st-lesson-043",
@@ -1131,7 +1302,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Web功能测试\n\nWeb功能测试内容。",
+    "knowledgePoints": [
+      "st-kp-046"
+    ]
   },
   {
     "id": "st-lesson-044",
@@ -1152,7 +1327,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# UI测试\n\nUI测试内容。",
+    "knowledgePoints": [
+      "st-kp-047"
+    ]
   },
   {
     "id": "st-lesson-045",
@@ -1173,7 +1352,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 兼容性测试\n\n兼容性测试内容。",
+    "knowledgePoints": [
+      "st-kp-048"
+    ]
   },
   {
     "id": "st-lesson-046",
@@ -1194,7 +1377,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 响应式测试\n\n响应式测试内容。",
+    "knowledgePoints": [
+      "st-kp-049"
+    ]
   },
   {
     "id": "st-lesson-047",
@@ -1222,7 +1409,12 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Selenium基础\n\nSelenium基础内容。",
+    "knowledgePoints": [
+      "st-kp-050",
+      "st-kp-051"
+    ]
   },
   {
     "id": "st-lesson-048",
@@ -1249,7 +1441,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Cypress\n\nCypress内容。",
+    "knowledgePoints": [
+      "st-kp-052"
+    ]
   },
   {
     "id": "st-lesson-049",
@@ -1276,7 +1472,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# PageObject\n\nPageObject内容。",
+    "knowledgePoints": [
+      "st-kp-053"
+    ]
   },
   {
     "id": "st-lesson-050",
@@ -1303,7 +1503,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 测试框架搭建\n\n测试框架搭建内容。",
+    "knowledgePoints": [
+      "st-kp-054"
+    ]
   },
   {
     "id": "st-lesson-051",
@@ -1330,7 +1534,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# CI集成\n\nCI集成内容。",
+    "knowledgePoints": [
+      "st-kp-055"
+    ]
   },
   {
     "id": "st-lesson-052",
@@ -1352,7 +1560,12 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Bug生命周期\n\nBug生命周期内容。",
+    "knowledgePoints": [
+      "st-kp-056",
+      "st-kp-057"
+    ]
   },
   {
     "id": "st-lesson-053",
@@ -1373,7 +1586,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 严重程度与优先级\n\n严重程度与优先级内容。",
+    "knowledgePoints": [
+      "st-kp-058"
+    ]
   },
   {
     "id": "st-lesson-054",
@@ -1394,7 +1611,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Bug报告编写\n\nBug报告编写内容。",
+    "knowledgePoints": [
+      "st-kp-059"
+    ]
   },
   {
     "id": "st-lesson-055",
@@ -1415,7 +1636,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Bug跟踪\n\nBug跟踪内容。",
+    "knowledgePoints": [
+      "st-kp-060"
+    ]
   },
   {
     "id": "st-lesson-056",
@@ -1442,7 +1667,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 性能指标\n\n性能指标内容。",
+    "knowledgePoints": [
+      "st-kp-061"
+    ]
   },
   {
     "id": "st-lesson-057",
@@ -1470,7 +1699,12 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JMeter\n\nJMeter内容。",
+    "knowledgePoints": [
+      "st-kp-062",
+      "st-kp-063"
+    ]
   },
   {
     "id": "st-lesson-058",
@@ -1497,7 +1731,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Gatling\n\nGatling内容。",
+    "knowledgePoints": [
+      "st-kp-064"
+    ]
   },
   {
     "id": "st-lesson-059",
@@ -1524,7 +1762,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# locust\n\nlocust内容。",
+    "knowledgePoints": [
+      "st-kp-065"
+    ]
   },
   {
     "id": "st-lesson-060",
@@ -1551,7 +1793,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 性能分析\n\n性能分析内容。",
+    "knowledgePoints": [
+      "st-kp-066"
+    ]
   },
   {
     "id": "st-lesson-061",
@@ -1572,7 +1818,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 测试报告结构\n\n测试报告结构内容。",
+    "knowledgePoints": [
+      "st-kp-067"
+    ]
   },
   {
     "id": "st-lesson-062",
@@ -1593,7 +1843,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 质量度量\n\n质量度量内容。",
+    "knowledgePoints": [
+      "st-kp-068"
+    ]
   },
   {
     "id": "st-lesson-063",
@@ -1614,7 +1868,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 发布标准\n\n发布标准内容。",
+    "knowledgePoints": [
+      "st-kp-069"
+    ]
   },
   {
     "id": "st-lesson-064",
@@ -1635,7 +1893,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 质量门禁\n\n质量门禁内容。",
+    "knowledgePoints": [
+      "st-kp-070"
+    ]
   },
   {
     "id": "st-lesson-065",
@@ -1662,7 +1924,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 电商测试项目\n\n电商测试项目内容。",
+    "knowledgePoints": [
+      "st-kp-071"
+    ]
   },
   {
     "id": "st-lesson-066",
@@ -1689,7 +1955,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 测试场景设计\n\n测试场景设计内容。",
+    "knowledgePoints": [
+      "st-kp-072"
+    ]
   },
   {
     "id": "st-lesson-067",
@@ -1716,7 +1986,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 面试题库\n\n面试题库内容。",
+    "knowledgePoints": [
+      "st-kp-073"
+    ]
   },
   {
     "id": "st-lesson-068",
@@ -1743,7 +2017,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模拟测试\n\n模拟测试内容。",
+    "knowledgePoints": [
+      "st-kp-074"
+    ]
   },
   {
     "id": "st-lesson-069",
@@ -1770,7 +2048,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺\n\n考前冲刺内容。",
+    "knowledgePoints": [
+      "st-kp-075"
+    ]
   },
   {
     "id": "st-lesson-070",
@@ -1791,7 +2073,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补1\n\n补1内容。",
+    "knowledgePoints": [
+      "st-kp-0070"
+    ]
   },
   {
     "id": "st-lesson-071",
@@ -1812,7 +2098,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补2\n\n补2内容。",
+    "knowledgePoints": [
+      "st-kp-0071"
+    ]
   },
   {
     "id": "st-lesson-072",
@@ -1833,7 +2123,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补3\n\n补3内容。",
+    "knowledgePoints": [
+      "st-kp-0072"
+    ]
   },
   {
     "id": "st-lesson-073",
@@ -1854,7 +2148,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补4\n\n补4内容。",
+    "knowledgePoints": [
+      "st-kp-0073"
+    ]
   },
   {
     "id": "st-lesson-074",
@@ -1875,7 +2173,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补5\n\n补5内容。",
+    "knowledgePoints": [
+      "st-kp-0074"
+    ]
   },
   {
     "id": "st-lesson-075",
@@ -1896,7 +2198,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补6\n\n补6内容。",
+    "knowledgePoints": [
+      "st-kp-0075"
+    ]
   },
   {
     "id": "st-lesson-076",
@@ -1917,7 +2223,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补7\n\n补7内容。",
+    "knowledgePoints": [
+      "st-kp-0076"
+    ]
   },
   {
     "id": "st-lesson-077",
@@ -1938,7 +2248,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补8\n\n补8内容。",
+    "knowledgePoints": [
+      "st-kp-0077"
+    ]
   },
   {
     "id": "st-lesson-078",
@@ -1959,7 +2273,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补9\n\n补9内容。",
+    "knowledgePoints": [
+      "st-kp-0078"
+    ]
   },
   {
     "id": "st-lesson-079",
@@ -1980,7 +2298,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补10\n\n补10内容。",
+    "knowledgePoints": [
+      "st-kp-0079"
+    ]
   },
   {
     "id": "st-lesson-080",
@@ -2001,7 +2323,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补11\n\n补11内容。",
+    "knowledgePoints": [
+      "st-kp-0080"
+    ]
   },
   {
     "id": "st-lesson-081",
@@ -2022,7 +2348,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补12\n\n补12内容。",
+    "knowledgePoints": [
+      "st-kp-0081"
+    ]
   },
   {
     "id": "st-lesson-082",
@@ -2043,7 +2373,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补13\n\n补13内容。",
+    "knowledgePoints": [
+      "st-kp-0082"
+    ]
   },
   {
     "id": "st-lesson-083",
@@ -2064,7 +2398,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补14\n\n补14内容。",
+    "knowledgePoints": [
+      "st-kp-0083"
+    ]
   },
   {
     "id": "st-lesson-084",
@@ -2085,7 +2423,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补15\n\n补15内容。",
+    "knowledgePoints": [
+      "st-kp-0084"
+    ]
   },
   {
     "id": "st-lesson-085",
@@ -2106,7 +2448,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补16\n\n补16内容。",
+    "knowledgePoints": [
+      "st-kp-0085"
+    ]
   },
   {
     "id": "st-lesson-086",
@@ -2127,7 +2473,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补17\n\n补17内容。",
+    "knowledgePoints": [
+      "st-kp-0086"
+    ]
   },
   {
     "id": "st-lesson-087",
@@ -2148,7 +2498,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补18\n\n补18内容。",
+    "knowledgePoints": [
+      "st-kp-0087"
+    ]
   },
   {
     "id": "st-lesson-088",
@@ -2169,7 +2523,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补19\n\n补19内容。",
+    "knowledgePoints": [
+      "st-kp-0088"
+    ]
   },
   {
     "id": "st-lesson-089",
@@ -2190,7 +2548,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补20\n\n补20内容。",
+    "knowledgePoints": [
+      "st-kp-0089"
+    ]
   },
   {
     "id": "st-lesson-090",
@@ -2211,7 +2573,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补21\n\n补21内容。",
+    "knowledgePoints": [
+      "st-kp-0090"
+    ]
   },
   {
     "id": "st-lesson-091",
@@ -2232,7 +2598,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补22\n\n补22内容。",
+    "knowledgePoints": [
+      "st-kp-0091"
+    ]
   },
   {
     "id": "st-lesson-092",
@@ -2253,7 +2623,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补23\n\n补23内容。",
+    "knowledgePoints": [
+      "st-kp-0092"
+    ]
   },
   {
     "id": "st-lesson-093",
@@ -2274,7 +2648,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补24\n\n补24内容。",
+    "knowledgePoints": [
+      "st-kp-0093"
+    ]
   },
   {
     "id": "st-lesson-094",
@@ -2295,7 +2673,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补25\n\n补25内容。",
+    "knowledgePoints": [
+      "st-kp-0094"
+    ]
   },
   {
     "id": "st-lesson-095",
@@ -2316,7 +2698,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补26\n\n补26内容。",
+    "knowledgePoints": [
+      "st-kp-0095"
+    ]
   },
   {
     "id": "st-lesson-096",
@@ -2337,7 +2723,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补27\n\n补27内容。",
+    "knowledgePoints": [
+      "st-kp-0096"
+    ]
   },
   {
     "id": "st-lesson-097",
@@ -2358,7 +2748,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补28\n\n补28内容。",
+    "knowledgePoints": [
+      "st-kp-0097"
+    ]
   },
   {
     "id": "st-lesson-098",
@@ -2379,7 +2773,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补29\n\n补29内容。",
+    "knowledgePoints": [
+      "st-kp-0098"
+    ]
   },
   {
     "id": "st-lesson-099",
@@ -2400,7 +2798,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补30\n\n补30内容。",
+    "knowledgePoints": [
+      "st-kp-0099"
+    ]
   },
   {
     "id": "st-lesson-100",
@@ -2421,7 +2823,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补31\n\n补31内容。",
+    "knowledgePoints": [
+      "st-kp-0100"
+    ]
   },
   {
     "id": "st-lesson-101",
@@ -2442,7 +2848,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补32\n\n补32内容。",
+    "knowledgePoints": [
+      "st-kp-0101"
+    ]
   },
   {
     "id": "st-lesson-102",
@@ -2463,7 +2873,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补33\n\n补33内容。",
+    "knowledgePoints": [
+      "st-kp-0102"
+    ]
   },
   {
     "id": "st-lesson-103",
@@ -2484,7 +2898,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补34\n\n补34内容。",
+    "knowledgePoints": [
+      "st-kp-0103"
+    ]
   },
   {
     "id": "st-lesson-104",
@@ -2505,7 +2923,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补35\n\n补35内容。",
+    "knowledgePoints": [
+      "st-kp-0104"
+    ]
   },
   {
     "id": "st-lesson-105",
@@ -2526,7 +2948,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补36\n\n补36内容。",
+    "knowledgePoints": [
+      "st-kp-0105"
+    ]
   },
   {
     "id": "st-lesson-106",
@@ -2547,7 +2973,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补37\n\n补37内容。",
+    "knowledgePoints": [
+      "st-kp-0106"
+    ]
   },
   {
     "id": "st-lesson-107",
@@ -2568,7 +2998,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补38\n\n补38内容。",
+    "knowledgePoints": [
+      "st-kp-0107"
+    ]
   },
   {
     "id": "st-lesson-108",
@@ -2589,7 +3023,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补39\n\n补39内容。",
+    "knowledgePoints": [
+      "st-kp-0108"
+    ]
   },
   {
     "id": "st-lesson-109",
@@ -2610,7 +3048,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补40\n\n补40内容。",
+    "knowledgePoints": [
+      "st-kp-0109"
+    ]
   },
   {
     "id": "st-lesson-110",
@@ -2631,7 +3073,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补41\n\n补41内容。",
+    "knowledgePoints": [
+      "st-kp-0110"
+    ]
   },
   {
     "id": "st-lesson-111",
@@ -2652,7 +3098,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补42\n\n补42内容。",
+    "knowledgePoints": [
+      "st-kp-0111"
+    ]
   },
   {
     "id": "st-lesson-112",
@@ -2673,7 +3123,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补43\n\n补43内容。",
+    "knowledgePoints": [
+      "st-kp-0112"
+    ]
   },
   {
     "id": "st-lesson-113",
@@ -2694,7 +3148,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补44\n\n补44内容。",
+    "knowledgePoints": [
+      "st-kp-0113"
+    ]
   },
   {
     "id": "st-lesson-114",
@@ -2715,7 +3173,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补45\n\n补45内容。",
+    "knowledgePoints": [
+      "st-kp-0114"
+    ]
   },
   {
     "id": "st-lesson-115",
@@ -2736,7 +3198,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补46\n\n补46内容。",
+    "knowledgePoints": [
+      "st-kp-0115"
+    ]
   },
   {
     "id": "st-lesson-116",
@@ -2757,7 +3223,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补47\n\n补47内容。",
+    "knowledgePoints": [
+      "st-kp-0116"
+    ]
   },
   {
     "id": "st-lesson-117",
@@ -2778,7 +3248,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补48\n\n补48内容。",
+    "knowledgePoints": [
+      "st-kp-0117"
+    ]
   },
   {
     "id": "st-lesson-118",
@@ -2799,7 +3273,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补49\n\n补49内容。",
+    "knowledgePoints": [
+      "st-kp-0118"
+    ]
   },
   {
     "id": "st-lesson-119",
@@ -2820,7 +3298,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补50\n\n补50内容。",
+    "knowledgePoints": [
+      "st-kp-0119"
+    ]
   },
   {
     "id": "st-lesson-120",
@@ -2841,7 +3323,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补51\n\n补51内容。",
+    "knowledgePoints": [
+      "st-kp-0120"
+    ]
   },
   {
     "id": "st-lesson-121",
@@ -2862,7 +3348,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补52\n\n补52内容。",
+    "knowledgePoints": [
+      "st-kp-0121"
+    ]
   },
   {
     "id": "st-lesson-122",
@@ -2883,7 +3373,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补53\n\n补53内容。",
+    "knowledgePoints": [
+      "st-kp-0122"
+    ]
   },
   {
     "id": "st-lesson-123",
@@ -2904,7 +3398,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补54\n\n补54内容。",
+    "knowledgePoints": [
+      "st-kp-0123"
+    ]
   },
   {
     "id": "st-lesson-124",
@@ -2925,7 +3423,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补55\n\n补55内容。",
+    "knowledgePoints": [
+      "st-kp-0124"
+    ]
   },
   {
     "id": "st-lesson-125",
@@ -2946,7 +3448,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补56\n\n补56内容。",
+    "knowledgePoints": [
+      "st-kp-0125"
+    ]
   },
   {
     "id": "st-lesson-126",
@@ -2967,7 +3473,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补57\n\n补57内容。",
+    "knowledgePoints": [
+      "st-kp-0126"
+    ]
   },
   {
     "id": "st-lesson-127",
@@ -2988,7 +3498,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补58\n\n补58内容。",
+    "knowledgePoints": [
+      "st-kp-0127"
+    ]
   },
   {
     "id": "st-lesson-128",
@@ -3009,7 +3523,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补59\n\n补59内容。",
+    "knowledgePoints": [
+      "st-kp-0128"
+    ]
   },
   {
     "id": "st-lesson-129",
@@ -3030,7 +3548,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补60\n\n补60内容。",
+    "knowledgePoints": [
+      "st-kp-0129"
+    ]
   },
   {
     "id": "st-lesson-130",
@@ -3051,7 +3573,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补61\n\n补61内容。",
+    "knowledgePoints": [
+      "st-kp-0130"
+    ]
   },
   {
     "id": "st-lesson-131",
@@ -3072,7 +3598,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补62\n\n补62内容。",
+    "knowledgePoints": [
+      "st-kp-0131"
+    ]
   },
   {
     "id": "st-lesson-132",
@@ -3093,7 +3623,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补63\n\n补63内容。",
+    "knowledgePoints": [
+      "st-kp-0132"
+    ]
   },
   {
     "id": "st-lesson-133",
@@ -3114,7 +3648,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补64\n\n补64内容。",
+    "knowledgePoints": [
+      "st-kp-0133"
+    ]
   },
   {
     "id": "st-lesson-134",
@@ -3135,7 +3673,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补65\n\n补65内容。",
+    "knowledgePoints": [
+      "st-kp-0134"
+    ]
   },
   {
     "id": "st-lesson-135",
@@ -3156,7 +3698,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补66\n\n补66内容。",
+    "knowledgePoints": [
+      "st-kp-0135"
+    ]
   },
   {
     "id": "st-lesson-136",
@@ -3177,7 +3723,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补67\n\n补67内容。",
+    "knowledgePoints": [
+      "st-kp-0136"
+    ]
   },
   {
     "id": "st-lesson-137",
@@ -3198,7 +3748,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补68\n\n补68内容。",
+    "knowledgePoints": [
+      "st-kp-0137"
+    ]
   },
   {
     "id": "st-lesson-138",
@@ -3219,7 +3773,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补69\n\n补69内容。",
+    "knowledgePoints": [
+      "st-kp-0138"
+    ]
   },
   {
     "id": "st-lesson-139",
@@ -3240,7 +3798,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补70\n\n补70内容。",
+    "knowledgePoints": [
+      "st-kp-0139"
+    ]
   },
   {
     "id": "st-lesson-140",
@@ -3261,7 +3823,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补71\n\n补71内容。",
+    "knowledgePoints": [
+      "st-kp-0140"
+    ]
   },
   {
     "id": "st-lesson-141",
@@ -3282,7 +3848,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补72\n\n补72内容。",
+    "knowledgePoints": [
+      "st-kp-0141"
+    ]
   },
   {
     "id": "st-lesson-142",
@@ -3303,7 +3873,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补73\n\n补73内容。",
+    "knowledgePoints": [
+      "st-kp-0142"
+    ]
   },
   {
     "id": "st-lesson-143",
@@ -3324,7 +3898,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补74\n\n补74内容。",
+    "knowledgePoints": [
+      "st-kp-0143"
+    ]
   },
   {
     "id": "st-lesson-144",
@@ -3345,7 +3923,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补75\n\n补75内容。",
+    "knowledgePoints": [
+      "st-kp-0144"
+    ]
   },
   {
     "id": "st-lesson-145",
@@ -3366,7 +3948,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补76\n\n补76内容。",
+    "knowledgePoints": [
+      "st-kp-0145"
+    ]
   },
   {
     "id": "st-lesson-146",
@@ -3387,7 +3973,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补77\n\n补77内容。",
+    "knowledgePoints": [
+      "st-kp-0146"
+    ]
   },
   {
     "id": "st-lesson-147",
@@ -3408,7 +3998,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补78\n\n补78内容。",
+    "knowledgePoints": [
+      "st-kp-0147"
+    ]
   },
   {
     "id": "st-lesson-148",
@@ -3429,7 +4023,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补79\n\n补79内容。",
+    "knowledgePoints": [
+      "st-kp-0148"
+    ]
   },
   {
     "id": "st-lesson-149",
@@ -3450,7 +4048,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补80\n\n补80内容。",
+    "knowledgePoints": [
+      "st-kp-0149"
+    ]
   },
   {
     "id": "st-lesson-150",
@@ -3471,7 +4073,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补81\n\n补81内容。",
+    "knowledgePoints": [
+      "st-kp-0150"
+    ]
   },
   {
     "id": "st-lesson-151",
@@ -3492,7 +4098,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补82\n\n补82内容。",
+    "knowledgePoints": [
+      "st-kp-0151"
+    ]
   },
   {
     "id": "st-lesson-152",
@@ -3513,7 +4123,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补83\n\n补83内容。",
+    "knowledgePoints": [
+      "st-kp-0152"
+    ]
   },
   {
     "id": "st-lesson-153",
@@ -3534,7 +4148,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补84\n\n补84内容。",
+    "knowledgePoints": [
+      "st-kp-0153"
+    ]
   },
   {
     "id": "st-lesson-154",
@@ -3555,7 +4173,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补85\n\n补85内容。",
+    "knowledgePoints": [
+      "st-kp-0154"
+    ]
   },
   {
     "id": "st-lesson-155",
@@ -3576,7 +4198,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补86\n\n补86内容。",
+    "knowledgePoints": [
+      "st-kp-0155"
+    ]
   },
   {
     "id": "st-lesson-156",
@@ -3597,7 +4223,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补87\n\n补87内容。",
+    "knowledgePoints": [
+      "st-kp-0156"
+    ]
   },
   {
     "id": "st-lesson-157",
@@ -3618,7 +4248,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补88\n\n补88内容。",
+    "knowledgePoints": [
+      "st-kp-0157"
+    ]
   },
   {
     "id": "st-lesson-158",
@@ -3639,7 +4273,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补89\n\n补89内容。",
+    "knowledgePoints": [
+      "st-kp-0158"
+    ]
   },
   {
     "id": "st-lesson-159",
@@ -3660,7 +4298,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补90\n\n补90内容。",
+    "knowledgePoints": [
+      "st-kp-0159"
+    ]
   },
   {
     "id": "st-lesson-160",
@@ -3681,7 +4323,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补91\n\n补91内容。",
+    "knowledgePoints": [
+      "st-kp-0160"
+    ]
   },
   {
     "id": "st-lesson-161",
@@ -3702,7 +4348,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补92\n\n补92内容。",
+    "knowledgePoints": [
+      "st-kp-0161"
+    ]
   },
   {
     "id": "st-lesson-162",
@@ -3723,7 +4373,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补93\n\n补93内容。",
+    "knowledgePoints": [
+      "st-kp-0162"
+    ]
   },
   {
     "id": "st-lesson-163",
@@ -3744,7 +4398,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补94\n\n补94内容。",
+    "knowledgePoints": [
+      "st-kp-0163"
+    ]
   },
   {
     "id": "st-lesson-164",
@@ -3765,7 +4423,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补95\n\n补95内容。",
+    "knowledgePoints": [
+      "st-kp-0164"
+    ]
   },
   {
     "id": "st-lesson-165",
@@ -3786,7 +4448,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补96\n\n补96内容。",
+    "knowledgePoints": [
+      "st-kp-0165"
+    ]
   },
   {
     "id": "st-lesson-166",
@@ -3807,7 +4473,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补97\n\n补97内容。",
+    "knowledgePoints": [
+      "st-kp-0166"
+    ]
   },
   {
     "id": "st-lesson-167",
@@ -3828,7 +4498,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补98\n\n补98内容。",
+    "knowledgePoints": [
+      "st-kp-0167"
+    ]
   },
   {
     "id": "st-lesson-168",
@@ -3849,7 +4523,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补99\n\n补99内容。",
+    "knowledgePoints": [
+      "st-kp-0168"
+    ]
   },
   {
     "id": "st-lesson-169",
@@ -3870,7 +4548,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补100\n\n补100内容。",
+    "knowledgePoints": [
+      "st-kp-0169"
+    ]
   },
   {
     "id": "st-lesson-170",
@@ -3891,7 +4573,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补101\n\n补101内容。",
+    "knowledgePoints": [
+      "st-kp-0170"
+    ]
   },
   {
     "id": "st-lesson-171",
@@ -3912,7 +4598,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补102\n\n补102内容。",
+    "knowledgePoints": [
+      "st-kp-0171"
+    ]
   },
   {
     "id": "st-lesson-172",
@@ -3933,7 +4623,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补103\n\n补103内容。",
+    "knowledgePoints": [
+      "st-kp-0172"
+    ]
   },
   {
     "id": "st-lesson-173",
@@ -3954,7 +4648,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补104\n\n补104内容。",
+    "knowledgePoints": [
+      "st-kp-0173"
+    ]
   },
   {
     "id": "st-lesson-174",
@@ -3975,7 +4673,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补105\n\n补105内容。",
+    "knowledgePoints": [
+      "st-kp-0174"
+    ]
   },
   {
     "id": "st-lesson-175",
@@ -3996,7 +4698,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补106\n\n补106内容。",
+    "knowledgePoints": [
+      "st-kp-0175"
+    ]
   },
   {
     "id": "st-lesson-176",
@@ -4017,7 +4723,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补107\n\n补107内容。",
+    "knowledgePoints": [
+      "st-kp-0176"
+    ]
   },
   {
     "id": "st-lesson-177",
@@ -4038,7 +4748,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补108\n\n补108内容。",
+    "knowledgePoints": [
+      "st-kp-0177"
+    ]
   },
   {
     "id": "st-lesson-178",
@@ -4059,7 +4773,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补109\n\n补109内容。",
+    "knowledgePoints": [
+      "st-kp-0178"
+    ]
   },
   {
     "id": "st-lesson-179",
@@ -4080,7 +4798,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补110\n\n补110内容。",
+    "knowledgePoints": [
+      "st-kp-0179"
+    ]
   },
   {
     "id": "st-lesson-180",
@@ -4101,7 +4823,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补111\n\n补111内容。",
+    "knowledgePoints": [
+      "st-kp-0180"
+    ]
   },
   {
     "id": "st-lesson-181",
@@ -4122,7 +4848,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补112\n\n补112内容。",
+    "knowledgePoints": [
+      "st-kp-0181"
+    ]
   },
   {
     "id": "st-lesson-182",
@@ -4143,7 +4873,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补113\n\n补113内容。",
+    "knowledgePoints": [
+      "st-kp-0182"
+    ]
   },
   {
     "id": "st-lesson-183",
@@ -4164,7 +4898,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补114\n\n补114内容。",
+    "knowledgePoints": [
+      "st-kp-0183"
+    ]
   },
   {
     "id": "st-lesson-184",
@@ -4185,7 +4923,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补115\n\n补115内容。",
+    "knowledgePoints": [
+      "st-kp-0184"
+    ]
   },
   {
     "id": "st-lesson-185",
@@ -4206,7 +4948,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补116\n\n补116内容。",
+    "knowledgePoints": [
+      "st-kp-0185"
+    ]
   },
   {
     "id": "st-lesson-186",
@@ -4227,7 +4973,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补117\n\n补117内容。",
+    "knowledgePoints": [
+      "st-kp-0186"
+    ]
   },
   {
     "id": "st-lesson-187",
@@ -4248,7 +4998,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补118\n\n补118内容。",
+    "knowledgePoints": [
+      "st-kp-0187"
+    ]
   },
   {
     "id": "st-lesson-188",
@@ -4269,7 +5023,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补119\n\n补119内容。",
+    "knowledgePoints": [
+      "st-kp-0188"
+    ]
   },
   {
     "id": "st-lesson-189",
@@ -4290,6 +5048,10 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补120\n\n补120内容。",
+    "knowledgePoints": [
+      "st-kp-0189"
+    ]
   }
 ]
