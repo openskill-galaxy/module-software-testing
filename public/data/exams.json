@@ -1,31 +1,63 @@
 [
   {
     "id": "mod-software-testing-exam-1",
-    "slug": "final-exam",
-    "title": "软件测试与质量保障 核心期末综合自测",
-    "summary": "全面检验您对 软件测试与质量保障 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "软件测试 基础入门测评",
+    "summary": "覆盖黑盒白盒概念、单元测试、回归测试与 V 模型等测试基础知识，适合入门自测。",
     "difficulty": "easy",
     "questionIds": [
       "mod-software-testing-q-1",
       "mod-software-testing-q-2",
       "mod-software-testing-q-3",
       "mod-software-testing-q-4",
-      "mod-software-testing-q-5",
-      "mod-software-testing-q-6"
+      "mod-software-testing-q-15",
+      "mod-software-testing-q-19",
+      "mod-software-testing-q-20",
+      "mod-software-testing-q-22",
+      "mod-software-testing-q-23"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-software-testing-exam-2",
-    "slug": "basic-exam",
-    "title": "软件测试与质量保障 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "软件测试 进阶强化训练",
+    "summary": "聚焦等价类与边界值用例设计、覆盖准则、缺陷生命周期与接口测试等核心技能的强化练习。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-software-testing-q-1",
-      "mod-software-testing-q-2",
-      "mod-software-testing-q-3"
+      "mod-software-testing-q-5",
+      "mod-software-testing-q-6",
+      "mod-software-testing-q-7",
+      "mod-software-testing-q-8",
+      "mod-software-testing-q-9",
+      "mod-software-testing-q-10",
+      "mod-software-testing-q-14",
+      "mod-software-testing-q-16",
+      "mod-software-testing-q-17",
+      "mod-software-testing-q-21"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-software-testing-exam-3",
+    "slug": "mock-exam",
+    "title": "软件测试 综合模拟考卷",
+    "summary": "综合性能指标解读、分支覆盖用例计算、自动化等待策略与质量保障实践的全真模拟卷。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-software-testing-q-5",
+      "mod-software-testing-q-7",
+      "mod-software-testing-q-8",
+      "mod-software-testing-q-11",
+      "mod-software-testing-q-12",
+      "mod-software-testing-q-13",
+      "mod-software-testing-q-16",
+      "mod-software-testing-q-17",
+      "mod-software-testing-q-18",
+      "mod-software-testing-q-21",
+      "mod-software-testing-q-24"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60

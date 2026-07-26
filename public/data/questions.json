@@ -1,218 +1,428 @@
 [
   {
     "id": "mod-software-testing-q-1",
-    "slug": "question-course-1-2",
+    "slug": "question-1",
     "type": "single",
-    "stem": "在学习 [软件测试与质量保障] 的过程里，关于“软件测试与质量保障 环境依赖搭建与运行机制”的核心考点，以下表述最为准确的是？",
+    "stem": "只依据需求规格说明书设计测试用例、完全不关心程序内部代码结构的测试方法叫什么？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "白盒测试" },
+      { "key": "B", "text": "黑盒测试" },
+      { "key": "C", "text": "灰盒测试" },
+      { "key": "D", "text": "静态代码审查" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“软件测试与质量保障 环境依赖搭建与运行机制”的正确答案为 A。解析：在 软件测试与质量保障 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "软件测试与质量保障",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["B"],
+    "explanation": "黑盒测试把被测系统视为不透明的\"黑箱\"，只关注输入与输出是否符合需求，典型方法有等价类划分、边界值分析、判定表、因果图等。白盒测试基于代码内部逻辑（语句/分支/路径覆盖）；灰盒介于两者之间；静态审查不运行程序，属于静态测试手段。",
+    "tags": ["黑盒测试", "测试基础"],
+    "difficulty": "easy",
+    "chapter": "mod-software-testing-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-software-testing-q-2",
-    "slug": "question-course-1-3",
+    "slug": "question-2",
     "type": "single",
-    "stem": "在学习 [软件测试与质量保障] 的过程里，关于“软件测试与质量保障 配置文件覆盖与属性解析”的核心考点，以下表述最为准确的是？",
+    "stem": "单元测试的测试对象通常是什么？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "整个系统的端到端业务流程" },
+      { "key": "B", "text": "软件中最小的可测试单元，如函数、方法或类" },
+      { "key": "C", "text": "多个子系统之间的接口" },
+      { "key": "D", "text": "用户界面的视觉样式" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“软件测试与质量保障 配置文件覆盖与属性解析”的正确答案为 A。解析：在 软件测试与质量保障 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "软件测试与质量保障",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["B"],
+    "explanation": "单元测试针对最小可测单元（函数、方法、类）验证其逻辑正确性，通常由开发人员编写，运行快、定位准，常配合 JUnit、pytest 等框架和 mock 技术隔离外部依赖。A 是系统测试/端到端测试的范畴，C 是集成测试，D 属于 UI 测试。",
+    "tags": ["单元测试"],
+    "difficulty": "easy",
+    "chapter": "mod-software-testing-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-software-testing-q-3",
-    "slug": "question-course-2-4",
+    "slug": "question-3",
     "type": "single",
-    "stem": "在学习 [软件测试与质量保障] 的过程里，关于“软件测试与质量保障 API 接口规范与数据通信”的核心考点，以下表述最为准确的是？",
+    "stem": "开发人员修复了一个缺陷并合入新代码后，测试人员重新执行原有的测试用例集，以确认修改没有破坏已有功能。这种测试叫什么？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "冒烟测试" },
+      { "key": "B", "text": "回归测试" },
+      { "key": "C", "text": "验收测试" },
+      { "key": "D", "text": "探索性测试" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“软件测试与质量保障 API 接口规范与数据通信”的正确答案为 A。解析：在 软件测试与质量保障 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "软件测试与质量保障",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["B"],
+    "explanation": "回归测试（regression testing）的目的是确认代码修改（修 Bug、加功能、重构）没有引入新的缺陷或破坏原有功能，通常复用既有用例集，是自动化测试收益最高的场景。冒烟测试是提测后先快速验证基本功能可用；验收测试面向用户需求确认；探索性测试是边学习边设计边执行的非脚本化测试。",
+    "tags": ["回归测试"],
+    "difficulty": "easy",
+    "chapter": "mod-software-testing-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-software-testing-q-4",
-    "slug": "question-course-2-5",
+    "slug": "question-4",
     "type": "single",
-    "stem": "在学习 [软件测试与质量保障] 的过程里，关于“软件测试与质量保障 核心控制器与数据校验机制”的核心考点，以下表述最为准确的是？",
+    "stem": "在软件测试的 V 模型中，与\"需求分析\"阶段直接对应的测试层级是哪一个？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "单元测试" },
+      { "key": "B", "text": "集成测试" },
+      { "key": "C", "text": "系统测试" },
+      { "key": "D", "text": "验收测试" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“软件测试与质量保障 核心控制器与数据校验机制”的正确答案为 A。解析：在 软件测试与质量保障 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "软件测试与质量保障",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["D"],
+    "explanation": "V 模型左侧自上而下是需求分析、概要设计、详细设计、编码，右侧自下而上一一对应验收测试、系统测试、集成测试、单元测试：需求分析 ↔ 验收测试（验证是否满足用户需求）、概要设计 ↔ 系统/集成测试、详细设计 ↔ 单元测试。V 模型强调每个开发阶段都有对应的测试活动尽早介入。",
+    "tags": ["V模型", "测试基础"],
+    "difficulty": "easy",
+    "chapter": "mod-software-testing-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-software-testing-q-5",
-    "slug": "question-course-3-6",
+    "slug": "question-5",
     "type": "single",
-    "stem": "在学习 [软件测试与质量保障] 的过程里，关于“软件测试与质量保障 缓存优化与垃圾回收调优”的核心考点，以下表述最为准确的是？",
+    "stem": "某输入框要求输入 1~100 之间的整数。按等价类划分法，下列哪一组测试数据恰好分别代表了 1 个有效等价类和 2 个无效等价类？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "50、0、101" },
+      { "key": "B", "text": "1、50、100" },
+      { "key": "C", "text": "0、-1、-100" },
+      { "key": "D", "text": "50、60、70" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“软件测试与质量保障 缓存优化与垃圾回收调优”的正确答案为 A。解析：在 软件测试与质量保障 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "软件测试与质量保障",
-      "基础考点"
-    ],
+    "answer": ["A"],
+    "explanation": "该需求可划分为：有效等价类 [1,100]，无效等价类 \"小于 1\" 和 \"大于 100\"（还可加\"非整数/非数字\"）。A 中 50 代表有效类、0 代表小于下界的无效类、101 代表大于上界的无效类，恰好各取一个代表值。B、D 全部落在有效类内（同一等价类取多个值是冗余的）；C 的三个值都属于\"小于 1\"这一个无效类。",
+    "tags": ["等价类划分", "用例设计"],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-software-testing-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-software-testing-q-6",
-    "slug": "question-course-3-7",
+    "slug": "question-6",
     "type": "single",
-    "stem": "在学习 [软件测试与质量保障] 的过程里，关于“软件测试与质量保障 可观测性日志与分布式链路监控”的核心考点，以下表述最为准确的是？",
+    "stem": "对输入范围 [1, 100] 使用边界值分析法设计用例，最典型的一组边界测试值是哪一组？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "0、1、100、101" },
+      { "key": "B", "text": "25、50、75、99" },
+      { "key": "C", "text": "-100、0、200、300" },
+      { "key": "D", "text": "1、2、3、4" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“软件测试与质量保障 可观测性日志与分布式链路监控”的正确答案为 A。解析：在 软件测试与质量保障 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "软件测试与质量保障",
-      "基础考点"
-    ],
+    "answer": ["A"],
+    "explanation": "边界值分析基于\"缺陷最容易出现在边界\"的经验：取上下边界本身（1、100）以及刚好越界的邻近值（0、101），必要时再加边界内侧值（2、99）。开发中常见的 > 与 >=、循环差一（off-by-one）错误正是在这些点暴露。B 是范围内部值，属于等价类内部冗余；C 离边界太远；D 只覆盖了下边界附近。",
+    "tags": ["边界值分析", "用例设计"],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-software-testing-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-software-testing-q-7",
+    "slug": "question-7",
+    "type": "single",
+    "stem": "关于白盒测试中的语句覆盖与分支（判定）覆盖，下列说法正确的是哪一项？",
+    "options": [
+      { "key": "A", "text": "达到 100% 语句覆盖就必然达到 100% 分支覆盖" },
+      { "key": "B", "text": "达到 100% 分支覆盖必然达到 100% 语句覆盖，分支覆盖强于语句覆盖" },
+      { "key": "C", "text": "两者衡量的内容完全相同，只是叫法不同" },
+      { "key": "D", "text": "语句覆盖是白盒测试中最强的覆盖准则" }
+    ],
+    "answer": ["B"],
+    "explanation": "分支覆盖要求每个判定的真、假分支都至少执行一次，而每条语句都位于某个分支路径上，所以 100% 分支覆盖蕴含 100% 语句覆盖，反之不成立——例如 if (x>0) y=1; 只用 x=1 一个用例即可覆盖所有语句，但假分支从未执行。覆盖强度从弱到强大致为：语句 < 分支 < 条件判定组合 < 路径，语句覆盖是最弱的准则。",
+    "tags": ["白盒测试", "覆盖率"],
+    "difficulty": "medium",
+    "chapter": "mod-software-testing-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-software-testing-q-8",
+    "slug": "question-8",
+    "type": "single",
+    "stem": "在典型的缺陷（Bug）生命周期中，测试人员对开发已标记为\"已修复（Fixed）\"的缺陷进行复测，发现问题依然存在，此时应将缺陷状态置为什么？",
+    "options": [
+      { "key": "A", "text": "关闭（Closed）" },
+      { "key": "B", "text": "重新打开（Reopen）" },
+      { "key": "C", "text": "延期处理（Deferred）" },
+      { "key": "D", "text": "重复（Duplicate）" }
+    ],
+    "answer": ["B"],
+    "explanation": "典型缺陷流转：新建 → 指派 → 修复 → 复测 → 关闭。复测不通过说明修复无效，应置为 Reopen 并退回开发继续处理；只有复测通过才能 Closed。Deferred 用于确认是缺陷但决定推迟到后续版本修复；Duplicate 用于与已有缺陷重复的情形。状态流转清晰是缺陷管理（如 Jira 工作流）的核心。",
+    "tags": ["缺陷管理", "Bug生命周期"],
+    "difficulty": "medium",
+    "chapter": "mod-software-testing-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-software-testing-q-9",
+    "slug": "question-9",
+    "type": "single",
+    "stem": "接口测试中，调用创建资源的 POST 接口成功后，服务端最规范的 HTTP 响应状态码是哪一个？",
+    "options": [
+      { "key": "A", "text": "200 OK 或 201 Created" },
+      { "key": "B", "text": "301 Moved Permanently" },
+      { "key": "C", "text": "404 Not Found" },
+      { "key": "D", "text": "500 Internal Server Error" }
+    ],
+    "answer": ["A"],
+    "explanation": "2xx 表示成功：POST 创建资源成功最规范返回 201 Created（并常在 Location 头给出新资源地址），返回 200 也常见。3xx 是重定向；404 表示资源不存在，属于客户端错误（4xx）；500 是服务端内部错误（5xx）。接口测试断言时除了状态码，还应校验响应体结构、字段值和数据落库情况。",
+    "tags": ["接口测试", "HTTP状态码"],
+    "difficulty": "medium",
+    "chapter": "mod-software-testing-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-software-testing-q-10",
+    "slug": "question-10",
+    "type": "single",
+    "stem": "按照自动化测试金字塔模型，数量应当最多、执行最快、位于金字塔最底层的是哪类测试？",
+    "options": [
+      { "key": "A", "text": "UI 端到端测试" },
+      { "key": "B", "text": "接口/服务层测试" },
+      { "key": "C", "text": "单元测试" },
+      { "key": "D", "text": "手工探索测试" }
+    ],
+    "answer": ["C"],
+    "explanation": "测试金字塔自下而上为：单元测试（最多、最快、最稳定、维护成本最低）→ 接口/服务测试 → UI 端到端测试（最少、最慢、最脆弱）。倒过来的\"冰淇淋筒\"反模式——大量 UI 自动化、极少单元测试——会导致执行慢、误报多、维护成本高。手工探索测试不属于自动化金字塔的层级，通常画在塔顶之外作为补充。",
+    "tags": ["自动化测试", "测试金字塔"],
+    "difficulty": "medium",
+    "chapter": "mod-software-testing-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-software-testing-q-11",
+    "slug": "question-11",
+    "type": "single",
+    "stem": "性能测试报告中\"P90 响应时间为 800ms\"的含义是什么？",
+    "options": [
+      { "key": "A", "text": "所有请求的平均响应时间是 800ms" },
+      { "key": "B", "text": "90% 的请求响应时间不超过 800ms" },
+      { "key": "C", "text": "90% 的请求响应时间超过 800ms" },
+      { "key": "D", "text": "每秒可以处理 800 个请求" }
+    ],
+    "answer": ["B"],
+    "explanation": "P90（90 分位）表示把所有请求响应时间从小到大排序，第 90% 位置的值为 800ms，即 90% 的请求都在 800ms 内完成，剩余 10% 更慢。分位数比平均值更能反映用户真实体验——平均值会被少量极慢请求或大量极快请求掩盖长尾问题，因此 SLA 常用 P90/P95/P99 定义。D 描述的是吞吐量（TPS/QPS），是另一个维度的指标。",
+    "tags": ["性能测试", "响应时间"],
+    "difficulty": "hard",
+    "chapter": "mod-software-testing-c-2",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-software-testing-q-12",
+    "slug": "question-12",
+    "type": "single",
+    "stem": "对代码段 if (a > 0 && b > 0) { x = 1; } else { x = 2; } 进行测试，要达到 100% 分支覆盖（真、假分支各执行一次），最少需要几个测试用例？",
+    "options": [
+      { "key": "A", "text": "1 个" },
+      { "key": "B", "text": "2 个" },
+      { "key": "C", "text": "3 个" },
+      { "key": "D", "text": "4 个" }
+    ],
+    "answer": ["B"],
+    "explanation": "分支覆盖只要求整个判定表达式取真、取假各一次：例如用例 (a=1, b=1) 使判定为真，(a=-1, b=1) 使判定为假，2 个用例即可。注意与条件组合覆盖区分：若要求 a>0、b>0 两个原子条件的真假全部组合（TT/TF/FT/FF），则需要 4 个用例。不同覆盖准则对应的最少用例数是白盒测试的高频考点。",
+    "tags": ["白盒测试", "分支覆盖"],
+    "difficulty": "hard",
+    "chapter": "mod-software-testing-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-software-testing-q-13",
+    "slug": "question-13",
+    "type": "single",
+    "stem": "在 Selenium Web 自动化测试中，关于显式等待（Explicit Wait）与隐式等待（Implicit Wait），下列说法正确的是哪一项？",
+    "options": [
+      { "key": "A", "text": "隐式等待可以针对某个元素等待特定条件（如可点击）成立" },
+      { "key": "B", "text": "显式等待配合期望条件，对指定元素轮询判断，条件满足即继续，超时则抛出异常" },
+      { "key": "C", "text": "用 time.sleep 固定休眠是最推荐的等待方式" },
+      { "key": "D", "text": "显式等待和隐式等待的作用完全相同，可以随意混用" }
+    ],
+    "answer": ["B"],
+    "explanation": "显式等待（如 WebDriverWait + expected_conditions）针对特定元素和特定条件（出现、可见、可点击等）轮询检测，条件满足立即继续，是最推荐的方式（B 对）。隐式等待是全局设置的查找元素兜底超时，只关心\"元素是否存在于 DOM\"，无法表达\"可点击\"等条件（A 错）。固定 sleep 要么浪费时间要么等待不足，且不稳定（C 错）。官方文档明确不建议混用两种等待，可能导致不可预期的超时行为（D 错）。",
+    "tags": ["自动化测试", "Selenium"],
+    "difficulty": "hard",
+    "chapter": "mod-software-testing-c-1",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-software-testing-q-14",
+    "slug": "question-14",
+    "type": "single",
+    "stem": "关于 Alpha 测试与 Beta 测试的区别，下列说法正确的是哪一项？",
+    "options": [
+      { "key": "A", "text": "Alpha 测试由用户在开发方场所进行，开发人员可现场观察记录" },
+      { "key": "B", "text": "Alpha 测试在用户的实际使用环境中进行，开发方无法控制" },
+      { "key": "C", "text": "Beta 测试在开发方受控环境中由测试工程师执行" },
+      { "key": "D", "text": "两者都属于白盒测试" }
+    ],
+    "answer": ["A"],
+    "explanation": "Alpha 测试：用户在开发方提供的受控环境（开发现场）试用软件，开发人员在旁记录问题，环境可控。Beta 测试：软件分发给真实用户在各自实际环境中使用，开发方不在场、环境不受控，通过用户反馈收集问题（B、C 正好说反了）。两者都是验收阶段面向用户的黑盒测试，与白盒无关（D 错）。",
+    "tags": ["验收测试", "Alpha测试", "Beta测试"],
+    "difficulty": "medium",
+    "chapter": "mod-software-testing-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-software-testing-q-15",
+    "slug": "question-15",
+    "type": "multiple",
+    "stem": "下列测试用例设计方法中，属于黑盒测试方法的有哪些？",
+    "options": [
+      { "key": "A", "text": "等价类划分" },
+      { "key": "B", "text": "边界值分析" },
+      { "key": "C", "text": "因果图/判定表" },
+      { "key": "D", "text": "语句覆盖" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "等价类划分、边界值分析、因果图与判定表都只依据需求规格设计输入输出，不看代码，属于黑盒方法；此外场景法、正交试验法也是黑盒方法。语句覆盖需要分析程序内部的代码结构和执行路径，是典型的白盒覆盖准则（同类还有分支覆盖、条件覆盖、路径覆盖）。",
+    "tags": ["黑盒测试", "用例设计"],
+    "difficulty": "easy",
+    "chapter": "mod-software-testing-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-software-testing-q-16",
+    "slug": "question-16",
+    "type": "multiple",
+    "stem": "一份高质量的缺陷报告（Bug 报告）通常应当包含哪些内容？",
+    "options": [
+      { "key": "A", "text": "清晰可复现的操作步骤" },
+      { "key": "B", "text": "期望结果与实际结果的对比" },
+      { "key": "C", "text": "环境信息（版本号、操作系统、浏览器等）与必要的截图/日志" },
+      { "key": "D", "text": "对开发人员编码能力的主观评价" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "好的缺陷报告要让开发\"一看就懂、一跑就现\"：复现步骤（A）让问题可重现；期望 vs 实际（B）说明为什么这是缺陷；环境信息和附件（C）帮助缩小排查范围，此外还应有简明标题、严重程度和优先级。D 完全不该出现——缺陷报告对事不对人，情绪化表述会损害协作，也不提供任何定位价值。",
+    "tags": ["缺陷管理", "测试报告"],
+    "difficulty": "medium",
+    "chapter": "mod-software-testing-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-software-testing-q-17",
+    "slug": "question-17",
+    "type": "multiple",
+    "stem": "下列哪些属于编写单元测试的良好实践？",
+    "options": [
+      { "key": "A", "text": "每个用例相互独立，可以以任意顺序重复运行且结果一致" },
+      { "key": "B", "text": "使用 Mock/Stub 隔离数据库、网络等外部依赖" },
+      { "key": "C", "text": "断言明确具体，一个用例聚焦验证一个行为" },
+      { "key": "D", "text": "让用例直接连接生产环境数据库以保证数据真实" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "单元测试应遵循 FIRST 原则：Fast（快）、Independent（独立，A）、Repeatable（可重复）、Self-validating（断言自校验，C）、Timely（及时）。用 Mock/Stub 替身隔离外部依赖（B）既提速又避免环境不稳定导致的偶发失败。D 是严重反模式：依赖生产库会让测试缓慢、不可重复，还可能污染生产数据，外部依赖应交给集成测试并使用专门的测试环境。",
+    "tags": ["单元测试", "Mock"],
+    "difficulty": "medium",
+    "chapter": "mod-software-testing-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-software-testing-q-18",
+    "slug": "question-18",
+    "type": "multiple",
+    "stem": "下列哪些属于性能测试的常见类型？",
+    "options": [
+      { "key": "A", "text": "负载测试：逐步增压，观察系统在预期负载下的表现" },
+      { "key": "B", "text": "压力测试：超出正常负载加压，找出系统崩溃点与恢复能力" },
+      { "key": "C", "text": "稳定性（浸泡）测试：长时间持续负载运行，观察内存泄漏与性能衰减" },
+      { "key": "D", "text": "单元测试：验证单个函数的逻辑正确性" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "负载测试验证系统在预期并发/吞吐下是否满足响应时间等指标（A）；压力测试持续加压直至系统瓶颈或崩溃，评估极限容量和降级恢复能力（B）；稳定性/浸泡测试以中等负载连续运行数小时到数天，暴露内存泄漏、连接池耗尽、日志膨胀等慢性问题（C）；此外还有尖峰（Spike）测试、容量测试等。单元测试验证功能逻辑，属于功能测试范畴而非性能测试（D 错）。",
+    "tags": ["性能测试"],
+    "difficulty": "medium",
+    "chapter": "mod-software-testing-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-software-testing-q-19",
+    "slug": "question-19",
+    "type": "judge",
+    "stem": "软件测试只能证明程序中存在缺陷，而不能证明程序中不存在缺陷。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。这是 Dijkstra 的著名论断，也是测试的基本原则之一：穷举所有输入组合在现实中不可行，测试通过只说明\"在已测场景下未发现问题\"。因此测试策略追求的是用有限用例最大化缺陷发现概率（等价类、边界值、风险驱动），而不是徒劳地追求\"证明无错\"。",
+    "tags": ["测试基础", "测试原则"],
+    "difficulty": "easy",
+    "chapter": "mod-software-testing-c-1",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-software-testing-q-20",
+    "slug": "question-20",
+    "type": "judge",
+    "stem": "所有测试工作都必须由专职测试人员完成，开发人员不应参与任何测试活动。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。单元测试通常就由开发人员自己编写和维护；代码评审、静态分析也是开发侧的质量活动。现代质量保障强调\"测试左移\"和全员质量文化：开发做单元与接口自测，测试工程师专注用例设计、系统测试与自动化建设，质量是整个团队的责任而不是测试一个角色的责任。",
+    "tags": ["测试基础", "质量保障"],
+    "difficulty": "easy",
+    "chapter": "mod-software-testing-c-2",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-software-testing-q-21",
+    "slug": "question-21",
+    "type": "judge",
+    "stem": "如果一套测试达到了 100% 语句覆盖率，就可以断定程序中不存在缺陷。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。语句覆盖是最弱的覆盖准则：它不保证分支的假路径被执行，更无法发现\"遗漏的需求/缺失的代码\"——没写的代码永远不会被覆盖率统计到。此外还有边界错误、并发问题、环境相关缺陷等都可能在 100% 语句覆盖下漏网。覆盖率是评估测试充分性的参考指标，绝不是质量的保证书。",
+    "tags": ["覆盖率", "白盒测试"],
+    "difficulty": "medium",
+    "chapter": "mod-software-testing-c-3",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-software-testing-q-22",
+    "slug": "question-22",
+    "type": "judge",
+    "stem": "冒烟测试通常在新版本提测后最先执行，目的是快速确认核心功能可用，判断该版本是否值得进入后续的详细测试。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。冒烟测试（Smoke Test，源自硬件\"通电不冒烟\"）是对构建版本主干功能的快速浅层验证：能安装、能启动、核心流程能走通。冒烟不通过则直接打回，避免测试团队在一个基本不可用的版本上浪费时间。在 CI/CD 流水线中，冒烟测试常被自动化并作为构建质量门禁。",
+    "tags": ["冒烟测试"],
+    "difficulty": "medium",
+    "chapter": "mod-software-testing-c-1",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-software-testing-q-23",
+    "slug": "question-23",
+    "type": "short",
+    "stem": "修改代码（修复缺陷或新增功能）之后，重新执行原有测试用例以确认修改没有破坏已有功能，这种测试的名称是什么？",
+    "options": [],
+    "answer": ["回归测试|回归"],
+    "explanation": "答案是回归测试（Regression Testing）。任何代码变更都可能产生副作用，回归测试通过复用既有用例集来守护存量功能。由于回归需要反复大量执行，它是自动化投入回报率最高的领域——成熟团队通常把核心回归集接入 CI，每次合码自动运行。",
+    "tags": ["回归测试"],
+    "difficulty": "easy",
+    "chapter": "mod-software-testing-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-software-testing-q-24",
+    "slug": "question-24",
+    "type": "short",
+    "stem": "Selenium 自动化中，针对某个元素轮询判断特定期望条件（如元素可点击）是否成立、满足即继续执行、超时则抛出异常的等待方式叫什么？",
+    "options": [],
+    "answer": ["显式等待|explicit wait|WebDriverWait"],
+    "explanation": "答案是显式等待（Explicit Wait），在 Selenium 中通过 WebDriverWait 配合 expected_conditions 实现，例如 WebDriverWait(driver, 10).until(EC.element_to_be_clickable(...))。它针对具体元素和具体条件，等待精准、失败信息明确，优于全局的隐式等待和固定的 time.sleep，是编写稳定 UI 自动化脚本的关键技术。",
+    "tags": ["自动化测试", "Selenium", "显式等待"],
+    "difficulty": "hard",
+    "chapter": "mod-software-testing-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
   }
 ]
