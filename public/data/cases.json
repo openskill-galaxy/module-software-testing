@@ -5,11 +5,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000296",
-      "st-q-000170",
-      "st-q-002347"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -29,11 +25,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-003582",
-      "st-q-000939",
-      "st-q-002856"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -53,11 +45,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001705",
-      "st-q-003217",
-      "st-q-002321"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -77,11 +65,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000729",
-      "st-q-000836",
-      "st-q-000656"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -101,11 +85,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001293",
-      "st-q-002913",
-      "st-q-001789"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -125,11 +105,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-003188",
-      "st-q-002740",
-      "st-q-000915"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -149,11 +125,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002345",
-      "st-q-001060",
-      "st-q-003695"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -173,11 +145,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000517",
-      "st-q-003584",
-      "st-q-003697"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -197,11 +165,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001566",
-      "st-q-000287",
-      "st-q-001217"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -221,11 +185,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002767",
-      "st-q-002915",
-      "st-q-000472"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -245,11 +205,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000176",
-      "st-q-001832",
-      "st-q-001793"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -269,11 +225,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002294",
-      "st-q-002915",
-      "st-q-000366"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -293,11 +245,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002667",
-      "st-q-003123",
-      "st-q-002853"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -317,11 +265,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002626",
-      "st-q-002706",
-      "st-q-000714"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -341,11 +285,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001627",
-      "st-q-003080",
-      "st-q-001589"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -365,11 +305,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001529",
-      "st-q-001215",
-      "st-q-000812"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -389,11 +325,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002524",
-      "st-q-000224",
-      "st-q-000926"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -413,11 +345,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-003279",
-      "st-q-002324",
-      "st-q-000948"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -437,11 +365,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002967",
-      "st-q-001487",
-      "st-q-001436"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -461,11 +385,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001151",
-      "st-q-001655",
-      "st-q-002182"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -485,11 +405,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-003013",
-      "st-q-003338",
-      "st-q-000282"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -509,11 +425,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001917",
-      "st-q-001317",
-      "st-q-000019"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -533,11 +445,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000258",
-      "st-q-002787",
-      "st-q-001653"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -557,11 +465,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001283",
-      "st-q-001410",
-      "st-q-001204"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -581,11 +485,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001556",
-      "st-q-002072",
-      "st-q-003281"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -605,11 +505,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000123",
-      "st-q-002587",
-      "st-q-001307"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -629,11 +525,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002305",
-      "st-q-001559",
-      "st-q-000386"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -653,11 +545,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-003639",
-      "st-q-002183",
-      "st-q-000162"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -677,11 +565,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-003634",
-      "st-q-003185",
-      "st-q-000684"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -701,11 +585,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002920",
-      "st-q-002679",
-      "st-q-002557"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -725,11 +605,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002294",
-      "st-q-000236",
-      "st-q-001994"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -749,11 +625,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002732",
-      "st-q-002859",
-      "st-q-002210"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -773,11 +645,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000203",
-      "st-q-000932",
-      "st-q-001662"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -797,11 +665,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001399",
-      "st-q-002087",
-      "st-q-003347"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -821,11 +685,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002204",
-      "st-q-003545",
-      "st-q-000902"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -845,11 +705,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-003653",
-      "st-q-002319",
-      "st-q-002847"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -869,11 +725,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000474",
-      "st-q-001393",
-      "st-q-003059"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -893,11 +745,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001282",
-      "st-q-001960",
-      "st-q-000633"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -917,11 +765,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002227",
-      "st-q-002211",
-      "st-q-002667"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -941,11 +785,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001899",
-      "st-q-002813",
-      "st-q-001052"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -965,11 +805,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002516",
-      "st-q-001178",
-      "st-q-001547"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -989,11 +825,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000747",
-      "st-q-001334",
-      "st-q-002128"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -1013,11 +845,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002575",
-      "st-q-003484",
-      "st-q-002141"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -1037,11 +865,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002544",
-      "st-q-000052",
-      "st-q-003538"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -1061,11 +885,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001128",
-      "st-q-002229",
-      "st-q-000725"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -1085,11 +905,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001429",
-      "st-q-001403",
-      "st-q-002704"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -1109,11 +925,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002614",
-      "st-q-000588",
-      "st-q-002239"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -1133,11 +945,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000854",
-      "st-q-001553",
-      "st-q-002454"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -1157,11 +965,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000915",
-      "st-q-002792",
-      "st-q-003104"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -1181,11 +985,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000342",
-      "st-q-000052",
-      "st-q-002353"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -1205,11 +1005,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000994",
-      "st-q-002575",
-      "st-q-002284"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -1229,11 +1025,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001975",
-      "st-q-000398",
-      "st-q-000438"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -1253,11 +1045,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000860",
-      "st-q-000251",
-      "st-q-002441"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -1277,11 +1065,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002699",
-      "st-q-003141",
-      "st-q-002631"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -1301,11 +1085,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001396",
-      "st-q-000862",
-      "st-q-002810"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -1325,11 +1105,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002235",
-      "st-q-001191",
-      "st-q-001388"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -1349,11 +1125,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002449",
-      "st-q-002360",
-      "st-q-003014"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -1373,11 +1145,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001930",
-      "st-q-000047",
-      "st-q-001872"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -1397,11 +1165,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001744",
-      "st-q-003473",
-      "st-q-002634"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -1421,11 +1185,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000985",
-      "st-q-001832",
-      "st-q-002975"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -1445,11 +1205,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002859",
-      "st-q-002170",
-      "st-q-002511"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -1469,11 +1225,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000270",
-      "st-q-003059",
-      "st-q-003615"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -1493,11 +1245,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001823",
-      "st-q-002177",
-      "st-q-003311"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -1517,11 +1265,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000516",
-      "st-q-003621",
-      "st-q-000804"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -1541,11 +1285,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002592",
-      "st-q-002584",
-      "st-q-002062"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -1565,11 +1305,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-003255",
-      "st-q-000884",
-      "st-q-003370"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -1589,11 +1325,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002415",
-      "st-q-002604",
-      "st-q-000276"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -1613,11 +1345,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002581",
-      "st-q-001086",
-      "st-q-001303"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -1637,11 +1365,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-003184",
-      "st-q-002678",
-      "st-q-000537"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -1661,11 +1385,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000386",
-      "st-q-001012",
-      "st-q-002951"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -1685,11 +1405,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002956",
-      "st-q-000171",
-      "st-q-002792"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -1709,11 +1425,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002111",
-      "st-q-000560",
-      "st-q-000933"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -1733,11 +1445,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000089",
-      "st-q-002650",
-      "st-q-002021"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -1757,11 +1465,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-003388",
-      "st-q-003148",
-      "st-q-001171"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -1781,11 +1485,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001442",
-      "st-q-000126",
-      "st-q-001893"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -1805,11 +1505,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-003267",
-      "st-q-002928",
-      "st-q-003193"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -1829,11 +1525,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-000905",
-      "st-q-001713",
-      "st-q-003577"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -1853,11 +1545,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-002076",
-      "st-q-002744",
-      "st-q-003469"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -1877,11 +1565,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-001414",
-      "st-q-002839",
-      "st-q-000739"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -1901,11 +1585,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "st-q-003641",
-      "st-q-001321",
-      "st-q-002556"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -1925,11 +1605,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003635",
-      "st-q-002426",
-      "st-q-000662"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -1949,11 +1625,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000289",
-      "st-q-003399",
-      "st-q-001393"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -1973,11 +1645,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003156",
-      "st-q-003603",
-      "st-q-003099"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -1997,11 +1665,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001803",
-      "st-q-002130",
-      "st-q-002498"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -2021,11 +1685,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003632",
-      "st-q-001146",
-      "st-q-001301"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -2045,11 +1705,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002811",
-      "st-q-002946",
-      "st-q-000587"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -2069,11 +1725,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001070",
-      "st-q-000587",
-      "st-q-002787"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -2093,11 +1745,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001992",
-      "st-q-003378",
-      "st-q-002954"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -2117,11 +1765,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001903",
-      "st-q-003324",
-      "st-q-003126"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -2141,11 +1785,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001180",
-      "st-q-001614",
-      "st-q-002507"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -2165,11 +1805,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002306",
-      "st-q-001054",
-      "st-q-002514"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -2189,11 +1825,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003195",
-      "st-q-002178",
-      "st-q-002408"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -2213,11 +1845,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000793",
-      "st-q-001966",
-      "st-q-001067"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -2237,11 +1865,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002606",
-      "st-q-001903",
-      "st-q-000014"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -2261,11 +1885,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001810",
-      "st-q-001793",
-      "st-q-003538"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -2285,11 +1905,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003181",
-      "st-q-002508",
-      "st-q-003432"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -2309,11 +1925,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001067",
-      "st-q-002624",
-      "st-q-001491"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -2333,11 +1945,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003066",
-      "st-q-000897",
-      "st-q-002779"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -2357,11 +1965,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000457",
-      "st-q-003183",
-      "st-q-003625"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -2381,11 +1985,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001355",
-      "st-q-002459",
-      "st-q-003067"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -2405,11 +2005,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000454",
-      "st-q-003396",
-      "st-q-001125"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -2429,11 +2025,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002821",
-      "st-q-000430",
-      "st-q-001218"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -2453,11 +2045,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002991",
-      "st-q-000145",
-      "st-q-003437"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -2477,11 +2065,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000740",
-      "st-q-003158",
-      "st-q-000518"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -2501,11 +2085,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000807",
-      "st-q-003019",
-      "st-q-002916"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -2525,11 +2105,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002455",
-      "st-q-000619",
-      "st-q-002831"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -2549,11 +2125,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000371",
-      "st-q-002953",
-      "st-q-000438"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -2573,11 +2145,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003174",
-      "st-q-002750",
-      "st-q-003574"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -2597,11 +2165,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002064",
-      "st-q-000750",
-      "st-q-002849"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -2621,11 +2185,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001339",
-      "st-q-000140",
-      "st-q-002662"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -2645,11 +2205,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000416",
-      "st-q-000145",
-      "st-q-001139"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -2669,11 +2225,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001584",
-      "st-q-003572",
-      "st-q-000469"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -2693,11 +2245,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000473",
-      "st-q-001307",
-      "st-q-003091"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -2717,11 +2265,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003129",
-      "st-q-001948",
-      "st-q-001502"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -2741,11 +2285,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002475",
-      "st-q-000593",
-      "st-q-000013"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -2765,11 +2305,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002529",
-      "st-q-000888",
-      "st-q-003540"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -2789,11 +2325,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001606",
-      "st-q-002769",
-      "st-q-003476"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -2813,11 +2345,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001141",
-      "st-q-000517",
-      "st-q-001606"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -2837,11 +2365,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002492",
-      "st-q-002258",
-      "st-q-000427"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -2861,11 +2385,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001572",
-      "st-q-003032",
-      "st-q-002827"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -2885,11 +2405,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000237",
-      "st-q-003361",
-      "st-q-001781"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -2909,11 +2425,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001760",
-      "st-q-000228",
-      "st-q-001345"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -2933,11 +2445,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000761",
-      "st-q-002150",
-      "st-q-001185"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -2957,11 +2465,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003370",
-      "st-q-001328",
-      "st-q-003308"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -2981,11 +2485,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003694",
-      "st-q-000978",
-      "st-q-003198"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -3005,11 +2505,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001131",
-      "st-q-002070",
-      "st-q-000597"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -3029,11 +2525,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001934",
-      "st-q-002369",
-      "st-q-001240"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -3053,11 +2545,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000532",
-      "st-q-001584",
-      "st-q-002331"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -3077,11 +2565,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001947",
-      "st-q-001453",
-      "st-q-002820"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -3101,11 +2585,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002762",
-      "st-q-000007",
-      "st-q-002867"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -3125,11 +2605,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000212",
-      "st-q-001488",
-      "st-q-001609"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -3149,11 +2625,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000768",
-      "st-q-001276",
-      "st-q-003417"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -3173,11 +2645,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001908",
-      "st-q-003664",
-      "st-q-002167"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -3197,11 +2665,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000108",
-      "st-q-002570",
-      "st-q-000389"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -3221,11 +2685,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000768",
-      "st-q-002511",
-      "st-q-000196"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -3245,11 +2705,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003062",
-      "st-q-002465",
-      "st-q-000123"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -3269,11 +2725,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000563",
-      "st-q-002328",
-      "st-q-002912"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -3293,11 +2745,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000373",
-      "st-q-000636",
-      "st-q-003446"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -3317,11 +2765,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001034",
-      "st-q-000321",
-      "st-q-001900"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -3341,11 +2785,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001580",
-      "st-q-000324",
-      "st-q-000790"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -3365,11 +2805,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001147",
-      "st-q-002744",
-      "st-q-003402"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -3389,11 +2825,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002291",
-      "st-q-000555",
-      "st-q-001882"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -3413,11 +2845,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001015",
-      "st-q-000403",
-      "st-q-001791"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -3437,11 +2865,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001299",
-      "st-q-003245",
-      "st-q-001246"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -3461,11 +2885,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003001",
-      "st-q-000670",
-      "st-q-002359"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -3485,11 +2905,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003295",
-      "st-q-000452",
-      "st-q-000197"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -3509,11 +2925,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003360",
-      "st-q-003102",
-      "st-q-000165"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -3533,11 +2945,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002468",
-      "st-q-002604",
-      "st-q-003508"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -3557,11 +2965,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000041",
-      "st-q-000376",
-      "st-q-001194"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -3581,11 +2985,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001824",
-      "st-q-000197",
-      "st-q-000022"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -3605,11 +3005,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001408",
-      "st-q-001942",
-      "st-q-001088"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -3629,11 +3025,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001788",
-      "st-q-002874",
-      "st-q-001276"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -3653,11 +3045,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-001681",
-      "st-q-003219",
-      "st-q-002972"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -3677,11 +3065,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000301",
-      "st-q-000033",
-      "st-q-000260"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -3701,11 +3085,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-000564",
-      "st-q-003057",
-      "st-q-000745"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -3725,11 +3105,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002763",
-      "st-q-000258",
-      "st-q-000694"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -3749,11 +3125,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-002165",
-      "st-q-002817",
-      "st-q-001276"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -3773,11 +3145,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003026",
-      "st-q-002973",
-      "st-q-000214"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -3797,11 +3165,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003093",
-      "st-q-003563",
-      "st-q-002122"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -3821,11 +3185,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "st-q-003599",
-      "st-q-003157",
-      "st-q-002219"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -3845,11 +3205,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003517",
-      "st-q-000142",
-      "st-q-000691"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -3869,11 +3225,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001870",
-      "st-q-002442",
-      "st-q-003585"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -3893,11 +3245,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002152",
-      "st-q-000940",
-      "st-q-003493"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -3917,11 +3265,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002492",
-      "st-q-000255",
-      "st-q-002486"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -3941,11 +3285,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001709",
-      "st-q-002079",
-      "st-q-001641"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -3965,11 +3305,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000336",
-      "st-q-002391",
-      "st-q-003487"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -3989,11 +3325,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001502",
-      "st-q-000472",
-      "st-q-003629"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -4013,11 +3345,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001367",
-      "st-q-003523",
-      "st-q-002428"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -4037,11 +3365,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000952",
-      "st-q-003199",
-      "st-q-000121"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -4061,11 +3385,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002752",
-      "st-q-001782",
-      "st-q-002671"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -4085,11 +3405,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000120",
-      "st-q-003280",
-      "st-q-000687"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -4109,11 +3425,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002836",
-      "st-q-003572",
-      "st-q-001376"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -4133,11 +3445,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003572",
-      "st-q-002331",
-      "st-q-001698"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -4157,11 +3465,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000347",
-      "st-q-000940",
-      "st-q-003375"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -4181,11 +3485,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001486",
-      "st-q-000341",
-      "st-q-003377"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -4205,11 +3505,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001763",
-      "st-q-000416",
-      "st-q-000480"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -4229,11 +3525,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001839",
-      "st-q-002306",
-      "st-q-000848"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -4253,11 +3545,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001158",
-      "st-q-003061",
-      "st-q-001686"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -4277,11 +3565,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003076",
-      "st-q-000408",
-      "st-q-001597"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -4301,11 +3585,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003684",
-      "st-q-001940",
-      "st-q-001095"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -4325,11 +3605,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001242",
-      "st-q-001311",
-      "st-q-000110"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -4349,11 +3625,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003238",
-      "st-q-000347",
-      "st-q-000936"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -4373,11 +3645,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000324",
-      "st-q-000748",
-      "st-q-000784"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -4397,11 +3665,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002199",
-      "st-q-000285",
-      "st-q-002168"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -4421,11 +3685,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001941",
-      "st-q-001690",
-      "st-q-002573"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -4445,11 +3705,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000826",
-      "st-q-001608",
-      "st-q-000737"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -4469,11 +3725,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000269",
-      "st-q-000017",
-      "st-q-000906"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -4493,11 +3745,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002256",
-      "st-q-002974",
-      "st-q-000652"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -4517,11 +3765,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000656",
-      "st-q-001632",
-      "st-q-002058"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -4541,11 +3785,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002297",
-      "st-q-002555",
-      "st-q-002533"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -4565,11 +3805,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002185",
-      "st-q-003677",
-      "st-q-003513"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -4589,11 +3825,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000667",
-      "st-q-003219",
-      "st-q-002893"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -4613,11 +3845,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001800",
-      "st-q-001040",
-      "st-q-002164"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -4637,11 +3865,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000871",
-      "st-q-000927",
-      "st-q-002368"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -4661,11 +3885,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003441",
-      "st-q-000988",
-      "st-q-000667"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -4685,11 +3905,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001145",
-      "st-q-002115",
-      "st-q-002570"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -4709,11 +3925,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001716",
-      "st-q-000029",
-      "st-q-000787"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -4733,11 +3945,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002875",
-      "st-q-001199",
-      "st-q-001957"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -4757,11 +3965,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000235",
-      "st-q-001016",
-      "st-q-001194"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -4781,11 +3985,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001894",
-      "st-q-001366",
-      "st-q-002166"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -4805,11 +4005,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003266",
-      "st-q-003200",
-      "st-q-000919"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -4829,11 +4025,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003206",
-      "st-q-002966",
-      "st-q-001176"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -4853,11 +4045,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003114",
-      "st-q-001028",
-      "st-q-001385"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -4877,11 +4065,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003165",
-      "st-q-000522",
-      "st-q-002088"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -4901,11 +4085,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000454",
-      "st-q-000825",
-      "st-q-002988"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -4925,11 +4105,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000926",
-      "st-q-003377",
-      "st-q-001711"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -4949,11 +4125,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000362",
-      "st-q-001176",
-      "st-q-000527"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -4973,11 +4145,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001396",
-      "st-q-002290",
-      "st-q-003267"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -4997,11 +4165,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002240",
-      "st-q-003182",
-      "st-q-000756"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -5021,11 +4185,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000322",
-      "st-q-003363",
-      "st-q-002066"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -5045,11 +4205,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001796",
-      "st-q-002738",
-      "st-q-001771"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -5069,11 +4225,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002983",
-      "st-q-000096",
-      "st-q-000438"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -5093,11 +4245,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002901",
-      "st-q-002055",
-      "st-q-000939"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -5117,11 +4265,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000376",
-      "st-q-000780",
-      "st-q-003532"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -5141,11 +4285,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000387",
-      "st-q-000179",
-      "st-q-000769"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -5165,11 +4305,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002845",
-      "st-q-003589",
-      "st-q-001515"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -5189,11 +4325,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000938",
-      "st-q-001148",
-      "st-q-000655"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -5213,11 +4345,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001493",
-      "st-q-001922",
-      "st-q-001481"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -5237,11 +4365,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001463",
-      "st-q-001956",
-      "st-q-000855"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -5261,11 +4385,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003241",
-      "st-q-000931",
-      "st-q-000200"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -5285,11 +4405,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000697",
-      "st-q-000330",
-      "st-q-003029"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -5309,11 +4425,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000430",
-      "st-q-003139",
-      "st-q-000788"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -5333,11 +4445,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001377",
-      "st-q-000373",
-      "st-q-003180"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -5357,11 +4465,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000740",
-      "st-q-001367",
-      "st-q-000008"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -5381,11 +4485,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003649",
-      "st-q-003417",
-      "st-q-003186"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -5405,11 +4505,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002703",
-      "st-q-002533",
-      "st-q-001177"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -5429,11 +4525,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000303",
-      "st-q-003599",
-      "st-q-001200"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -5453,11 +4545,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003345",
-      "st-q-003361",
-      "st-q-002340"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -5477,11 +4565,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003053",
-      "st-q-003582",
-      "st-q-002818"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -5501,11 +4585,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000731",
-      "st-q-002604",
-      "st-q-000887"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -5525,11 +4605,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001309",
-      "st-q-002484",
-      "st-q-000435"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -5549,11 +4625,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000587",
-      "st-q-000058",
-      "st-q-001443"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -5573,11 +4645,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001930",
-      "st-q-002446",
-      "st-q-000431"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -5597,11 +4665,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000136",
-      "st-q-001503",
-      "st-q-000558"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -5621,11 +4685,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000297",
-      "st-q-002458",
-      "st-q-002878"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -5645,11 +4705,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003480",
-      "st-q-000255",
-      "st-q-003549"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -5669,11 +4725,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000673",
-      "st-q-003606",
-      "st-q-003237"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -5693,11 +4745,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000780",
-      "st-q-002759",
-      "st-q-000005"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -5717,11 +4765,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003659",
-      "st-q-003083",
-      "st-q-002236"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -5741,11 +4785,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000804",
-      "st-q-001006",
-      "st-q-002598"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -5765,11 +4805,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002100",
-      "st-q-002513",
-      "st-q-001529"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -5789,11 +4825,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001553",
-      "st-q-002570",
-      "st-q-002777"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -5813,11 +4845,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000705",
-      "st-q-001293",
-      "st-q-001242"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
@@ -5837,11 +4865,7 @@
     "description": "通过订单流程测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000442",
-      "st-q-001165",
-      "st-q-000666"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单流程测试"
     ],
@@ -5861,11 +4885,7 @@
     "description": "通过权限测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001053",
-      "st-q-002773",
-      "st-q-002078"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限测试"
     ],
@@ -5885,11 +4905,7 @@
     "description": "通过接口测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001575",
-      "st-q-002229",
-      "st-q-003699"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "接口测试"
     ],
@@ -5909,11 +4925,7 @@
     "description": "通过异常输入掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002827",
-      "st-q-001371",
-      "st-q-001521"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "异常输入"
     ],
@@ -5933,11 +4945,7 @@
     "description": "通过边界值测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002028",
-      "st-q-003410",
-      "st-q-000611"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边界值测试"
     ],
@@ -5957,11 +4965,7 @@
     "description": "通过等价类测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000579",
-      "st-q-002548",
-      "st-q-002893"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价类测试"
     ],
@@ -5981,11 +4985,7 @@
     "description": "通过Bug报告掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001546",
-      "st-q-002869",
-      "st-q-001395"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Bug报告"
     ],
@@ -6005,11 +5005,7 @@
     "description": "通过测试计划掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001768",
-      "st-q-002291",
-      "st-q-003010"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试计划"
     ],
@@ -6029,11 +5025,7 @@
     "description": "通过测试报告掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000014",
-      "st-q-000981",
-      "st-q-001542"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "测试报告"
     ],
@@ -6053,11 +5045,7 @@
     "description": "通过自动化脚本掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-000292",
-      "st-q-002606",
-      "st-q-002068"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化脚本"
     ],
@@ -6077,11 +5065,7 @@
     "description": "通过性能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001450",
-      "st-q-003164",
-      "st-q-003468"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "性能测试"
     ],
@@ -6101,11 +5085,7 @@
     "description": "通过发布前检查掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-001622",
-      "st-q-000986",
-      "st-q-001691"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "发布前检查"
     ],
@@ -6125,11 +5105,7 @@
     "description": "通过登录功能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003352",
-      "st-q-001440",
-      "st-q-000548"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "登录功能测试"
     ],
@@ -6149,11 +5125,7 @@
     "description": "通过注册测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002087",
-      "st-q-002299",
-      "st-q-000658"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "注册测试"
     ],
@@ -6173,11 +5145,7 @@
     "description": "通过密码规则测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-002384",
-      "st-q-003650",
-      "st-q-000606"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "密码规则测试"
     ],
@@ -6197,11 +5165,7 @@
     "description": "通过搜索功能测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003345",
-      "st-q-000867",
-      "st-q-001260"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "搜索功能测试"
     ],
@@ -6221,11 +5185,7 @@
     "description": "通过购物车测试掌握测试",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "st-q-003346",
-      "st-q-002847",
-      "st-q-000204"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "购物车测试"
     ],
