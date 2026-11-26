@@ -1,6 +1,7 @@
 {
-  "short_name": "OpenSkill Module",
-  "name": "OpenSkill Galaxy — 学习自测模块",
+  "short_name": "软件测试与质量保障",
+  "name": "OpenSkill Galaxy — 软件测试与质量保障",
+  "description": "面向软件工程学生开发者和测试工程师入门者系统学习软件测试基础测试用例设计黑盒白盒单元测试接口测试自动化测试缺陷管理性能测试和质量保障的静态学习模块。",
   "icons": [
     {
       "src": "favicon.svg",
@@ -8,9 +9,10 @@
       "sizes": "any"
     }
   ],
-  "start_url": ".",
-  "background_color": "#fbfbfd",
-  "theme_color": "#4f46e5",
+  "start_url": "/module-software-testing/",
+  "scope": "/module-software-testing/",
+  "background_color": "#f4f5fa",
+  "theme_color": "#3039c9",
   "display": "standalone",
   "orientation": "portrait"
 }

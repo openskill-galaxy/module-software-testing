@@ -267,7 +267,8 @@
     "description": "测试标签：冒烟测试",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "冒烟测试"
+    "slug": "冒烟测试-st-tag-030",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-031",
@@ -834,7 +835,8 @@
     "description": "测试标签：测试环境",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "测试环境"
+    "slug": "测试环境-st-tag-093",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-094",
@@ -1824,7 +1826,8 @@
     "description": "测试标签：质量保障",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "质量保障"
+    "slug": "质量保障-st-tag-203",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-204",
@@ -2067,7 +2070,8 @@
     "description": "测试标签：探索式测试",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "探索式测试"
+    "slug": "探索式测试-st-tag-230",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-231",
@@ -2148,7 +2152,8 @@
     "description": "测试标签：JUnit",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "junit"
+    "slug": "junit-st-tag-239",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-240",
@@ -2157,7 +2162,8 @@
     "description": "测试标签：TestNG",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "testng"
+    "slug": "testng-st-tag-240",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-241",
@@ -2166,7 +2172,8 @@
     "description": "测试标签：pytest",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "pytest"
+    "slug": "pytest-st-tag-241",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-242",
@@ -2175,7 +2182,8 @@
     "description": "测试标签：unittest",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "unittest"
+    "slug": "unittest-st-tag-242",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-243",
@@ -2283,7 +2291,8 @@
     "description": "测试标签：压力测试",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "压力测试"
+    "slug": "压力测试-st-tag-254",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-255",
@@ -2463,7 +2472,8 @@
     "description": "测试标签：安全测试",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "安全测试"
+    "slug": "安全测试-st-tag-274",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-275",
@@ -2625,7 +2635,8 @@
     "description": "测试标签：易用性",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "易用性"
+    "slug": "易用性-st-tag-292",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-293",
@@ -2643,7 +2654,8 @@
     "description": "测试标签：兼容性测试",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "兼容性测试"
+    "slug": "兼容性测试-st-tag-294",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-295",
@@ -2823,7 +2835,8 @@
     "description": "测试标签：测试环境",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "测试环境"
+    "slug": "测试环境-st-tag-314",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-315",
@@ -2832,7 +2845,8 @@
     "description": "测试标签：测试数据",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "测试数据"
+    "slug": "测试数据-st-tag-315",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-316",
@@ -2841,7 +2855,8 @@
     "description": "测试标签：测试自动化",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "测试自动化"
+    "slug": "测试自动化-st-tag-316",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-317",
@@ -2931,7 +2946,8 @@
     "description": "测试标签：测试左移",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "测试左移"
+    "slug": "测试左移-st-tag-326",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-327",
@@ -3516,7 +3532,8 @@
     "description": "测试标签：测试场景",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "测试场景"
+    "slug": "测试场景-st-tag-391",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-392",
@@ -3525,7 +3542,8 @@
     "description": "测试标签：测试设计",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "测试设计"
+    "slug": "测试设计-st-tag-392",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-393",
@@ -3534,7 +3552,8 @@
     "description": "测试标签：测试方法",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "测试方法"
+    "slug": "测试方法-st-tag-393",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-394",
@@ -3561,7 +3580,8 @@
     "description": "测试标签：自动化",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "自动化"
+    "slug": "自动化-st-tag-396",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-397",
@@ -3651,7 +3671,8 @@
     "description": "测试标签：报告",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "报告"
+    "slug": "报告-st-tag-406",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-407",
@@ -3678,7 +3699,8 @@
     "description": "测试标签：仪表盘",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "仪表盘"
+    "slug": "仪表盘-st-tag-409",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-410",
@@ -3696,7 +3718,8 @@
     "description": "测试标签：测试成熟度",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "测试成熟度"
+    "slug": "测试成熟度-st-tag-411",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-412",
@@ -3705,7 +3728,8 @@
     "description": "测试标签：持续测试",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "持续测试"
+    "slug": "持续测试-st-tag-412",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-413",
@@ -3858,7 +3882,8 @@
     "description": "测试标签：手工测试",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "手工测试"
+    "slug": "手工测试-st-tag-429",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-430",
@@ -3876,7 +3901,8 @@
     "description": "测试标签：工具",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "工具"
+    "slug": "工具-st-tag-431",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-432",
@@ -3885,7 +3911,8 @@
     "description": "测试标签：框架",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "框架"
+    "slug": "框架-st-tag-432",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-433",
@@ -3930,7 +3957,8 @@
     "description": "测试标签：版本",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "版本"
+    "slug": "版本-st-tag-437",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-438",
@@ -4047,7 +4075,8 @@
     "description": "测试标签：效率",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "效率"
+    "slug": "效率-st-tag-450",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-451",
@@ -4056,7 +4085,8 @@
     "description": "测试标签：质量",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "质量"
+    "slug": "质量-st-tag-451",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-452",
@@ -4110,7 +4140,8 @@
     "description": "测试标签：驱动",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "驱动"
+    "slug": "驱动-st-tag-457",
+    "editorialStatus": "draft"
   },
   {
     "id": "st-tag-458",

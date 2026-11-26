@@ -1,70 +1,66 @@
 [
   {
     "id": "mod-software-testing-c-1",
-    "title": "软件测试与质量保障 架构原理与初始化",
+    "title": "测试层次与 V 模型 / 等价类与边界值",
     "slug": "course-1",
-    "summary": "深度探索 软件测试与质量保障 的设计理念、运行架构以及初始化配置引导。",
+    "summary": "例题研习覆盖单元测试、V模型、测试基础、等价类划分、用例设计、边界值分析。",
     "order": 1,
     "difficulty": "easy",
-    "estimatedHours": 47,
+    "estimatedHours": 0.3,
     "lessons": [
       "mod-software-testing-l-1",
       "mod-software-testing-l-2"
     ],
     "tags": [
-      "软件测试",
-      "测试用例",
-      "接口测试",
-      "自动化测试",
-      "Bug管理",
-      "性能测试",
-      "质量保障",
-      "测试报告"
+      "单元测试",
+      "V模型",
+      "测试基础",
+      "等价类划分",
+      "用例设计",
+      "边界值分析"
     ]
   },
   {
     "id": "mod-software-testing-c-2",
-    "title": "软件测试与质量保障 核心机制与开发实战",
+    "title": "分支覆盖与回归验证 / 接口状态码与测试替身",
     "slug": "course-2",
-    "summary": "掌握 软件测试与质量保障 的核心组件、API 接口调用以及本地开发调试。",
+    "summary": "例题研习覆盖白盒测试、分支覆盖、回归测试、接口测试、HTTP状态码、单元测试、Mock。",
     "order": 2,
     "difficulty": "easy",
-    "estimatedHours": 47,
+    "estimatedHours": 0.4,
     "lessons": [
       "mod-software-testing-l-3",
       "mod-software-testing-l-4"
     ],
     "tags": [
-      "软件测试",
-      "测试用例",
+      "白盒测试",
+      "分支覆盖",
+      "回归测试",
       "接口测试",
-      "自动化测试",
-      "Bug管理",
-      "性能测试",
-      "质量保障",
-      "测试报告"
+      "HTTP状态码",
+      "单元测试",
+      "Mock"
     ]
   },
   {
     "id": "mod-software-testing-c-3",
-    "title": "软件测试与质量保障 高级优化与生产部署",
+    "title": "性能指标与自动化分层 / 缺陷生命周期与测试报告",
     "slug": "course-3",
-    "summary": "学习如何进行系统性能监控调优、高可用集群部署与数据存储。",
+    "summary": "例题研习覆盖性能测试、响应时间、自动化测试、测试金字塔、缺陷管理、Bug生命周期、测试报告。",
     "order": 3,
     "difficulty": "easy",
-    "estimatedHours": 47,
+    "estimatedHours": 0.4,
     "lessons": [
       "mod-software-testing-l-5",
       "mod-software-testing-l-6"
     ],
     "tags": [
-      "软件测试",
-      "测试用例",
-      "接口测试",
-      "自动化测试",
-      "Bug管理",
       "性能测试",
-      "质量保障",
+      "响应时间",
+      "自动化测试",
+      "测试金字塔",
+      "缺陷管理",
+      "Bug生命周期",
       "测试报告"
     ]
   }

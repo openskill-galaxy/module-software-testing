@@ -29,13 +29,13 @@
   "stats": {
     "courses": 3,
     "lessons": 6,
-    "knowledgePoints": 809,
+    "knowledgePoints": 39,
     "questions": 24,
-    "cases": 260,
+    "cases": 1,
     "exams": 3,
     "routes": 2,
-    "glossary": 360,
-    "faqs": 210,
-    "tags": 461
+    "glossary": 30,
+    "faqs": 14,
+    "tags": 430
   }
 }

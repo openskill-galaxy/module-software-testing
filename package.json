@@ -2,7 +2,7 @@
   "name": "openskill-module-software-testing",
   "version": "1.0.0",
   "private": true,
-  "description": "OpenSkill Galaxy reusable static learning module template.",
+  "description": "面向测试入门和QA学习者",
   "type": "module",
   "scripts": {
     "dev": "vite",
